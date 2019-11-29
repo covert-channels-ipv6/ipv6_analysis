@@ -1,0 +1,944 @@
+File: ../caida/equinix-nyc.dirA.20181115-125910.UTC.anon.ipv6.pcap
+Analyzed Packets: 340975
+Amount of Flow-Packets: 52271 (15.3200%)
+Amount of different Flows: 23448 (6.8700%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 2137
+Average Number Packets/Flow: 2.22
+
+File: ../caida/equinix-nyc.dirA.20181115-130000.UTC.anon.ipv6.pcap
+Analyzed Packets: 396702
+Amount of Flow-Packets: 63038 (15.8900%)
+Amount of different Flows: 30392 (7.6600%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 927
+Average Number Packets/Flow: 2.07
+
+File: ../caida/equinix-nyc.dirA.20181115-130100.UTC.anon.ipv6.pcap
+Analyzed Packets: 409450
+Amount of Flow-Packets: 63662 (15.5400%)
+Amount of different Flows: 30269 (7.3900%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 3155
+Average Number Packets/Flow: 2.10
+
+File: ../caida/equinix-nyc.dirA.20181115-130200.UTC.anon.ipv6.pcap
+Analyzed Packets: 426024
+Amount of Flow-Packets: 81881 (19.2100%)
+Amount of different Flows: 29549 (6.9300%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 13073
+Average Number Packets/Flow: 2.77
+
+File: ../caida/equinix-nyc.dirA.20181115-130300.UTC.anon.ipv6.pcap
+Analyzed Packets: 429183
+Amount of Flow-Packets: 84730 (19.7400%)
+Amount of different Flows: 29207 (6.8000%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 11230
+Average Number Packets/Flow: 2.90
+
+File: ../caida/equinix-nyc.dirA.20181115-130400.UTC.anon.ipv6.pcap
+Analyzed Packets: 407569
+Amount of Flow-Packets: 76071 (18.6600%)
+Amount of different Flows: 28986 (7.1100%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 9448
+Average Number Packets/Flow: 2.62
+
+File: ../caida/equinix-nyc.dirA.20181115-130500.UTC.anon.ipv6.pcap
+Analyzed Packets: 417524
+Amount of Flow-Packets: 75725 (18.1300%)
+Amount of different Flows: 29938 (7.1700%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 6964
+Average Number Packets/Flow: 2.52
+
+File: ../caida/equinix-nyc.dirA.20181115-130600.UTC.anon.ipv6.pcap
+Analyzed Packets: 418180
+Amount of Flow-Packets: 76431 (18.2700%)
+Amount of different Flows: 30241 (7.2300%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 5591
+Average Number Packets/Flow: 2.52
+
+File: ../caida/equinix-nyc.dirA.20181115-130700.UTC.anon.ipv6.pcap
+Analyzed Packets: 435220
+Amount of Flow-Packets: 83980 (19.2900%)
+Amount of different Flows: 30800 (7.0700%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 8416
+Average Number Packets/Flow: 2.72
+
+File: ../caida/equinix-nyc.dirA.20181115-130800.UTC.anon.ipv6.pcap
+Analyzed Packets: 409839
+Amount of Flow-Packets: 69902 (17.0500%)
+Amount of different Flows: 30521 (7.4400%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 989
+Average Number Packets/Flow: 2.29
+
+File: ../caida/equinix-nyc.dirA.20181115-130900.UTC.anon.ipv6.pcap
+Analyzed Packets: 397198
+Amount of Flow-Packets: 63785 (16.0500%)
+Amount of different Flows: 31195 (7.8500%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 1178
+Average Number Packets/Flow: 2.04
+
+File: ../caida/equinix-nyc.dirA.20181115-131000.UTC.anon.ipv6.pcap
+Analyzed Packets: 411771
+Amount of Flow-Packets: 65043 (15.7900%)
+Amount of different Flows: 29750 (7.2200%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 1824
+Average Number Packets/Flow: 2.18
+
+File: ../caida/equinix-nyc.dirA.20181115-131100.UTC.anon.ipv6.pcap
+Analyzed Packets: 408089
+Amount of Flow-Packets: 65968 (16.1600%)
+Amount of different Flows: 29963 (7.3400%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 1564
+Average Number Packets/Flow: 2.20
+
+File: ../caida/equinix-nyc.dirA.20181115-131200.UTC.anon.ipv6.pcap
+Analyzed Packets: 399730
+Amount of Flow-Packets: 68580 (17.1500%)
+Amount of different Flows: 30071 (7.5200%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 4151
+Average Number Packets/Flow: 2.28
+
+File: ../caida/equinix-nyc.dirA.20181115-131300.UTC.anon.ipv6.pcap
+Analyzed Packets: 416984
+Amount of Flow-Packets: 74476 (17.8600%)
+Amount of different Flows: 30467 (7.3000%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 3854
+Average Number Packets/Flow: 2.44
+
+File: ../caida/equinix-nyc.dirA.20181115-131400.UTC.anon.ipv6.pcap
+Analyzed Packets: 400509
+Amount of Flow-Packets: 65844 (16.4400%)
+Amount of different Flows: 29655 (7.4000%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 3936
+Average Number Packets/Flow: 2.22
+
+File: ../caida/equinix-nyc.dirA.20181115-131500.UTC.anon.ipv6.pcap
+Analyzed Packets: 419397
+Amount of Flow-Packets: 71674 (17.0800%)
+Amount of different Flows: 30794 (7.3400%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 6065
+Average Number Packets/Flow: 2.32
+
+File: ../caida/equinix-nyc.dirA.20181115-131600.UTC.anon.ipv6.pcap
+Analyzed Packets: 417083
+Amount of Flow-Packets: 71182 (17.0600%)
+Amount of different Flows: 30320 (7.2600%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 6969
+Average Number Packets/Flow: 2.34
+
+File: ../caida/equinix-nyc.dirA.20181115-131700.UTC.anon.ipv6.pcap
+Analyzed Packets: 425414
+Amount of Flow-Packets: 79390 (18.6600%)
+Amount of different Flows: 29383 (6.9000%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 8225
+Average Number Packets/Flow: 2.70
+
+File: ../caida/equinix-nyc.dirA.20181115-131800.UTC.anon.ipv6.pcap
+Analyzed Packets: 411501
+Amount of Flow-Packets: 67255 (16.3400%)
+Amount of different Flows: 29882 (7.2600%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 9428
+Average Number Packets/Flow: 2.25
+
+File: ../caida/equinix-nyc.dirA.20181115-131900.UTC.anon.ipv6.pcap
+Analyzed Packets: 415789
+Amount of Flow-Packets: 78422 (18.8600%)
+Amount of different Flows: 29592 (7.1100%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 11982
+Average Number Packets/Flow: 2.65
+
+File: ../caida/equinix-nyc.dirA.20181115-132000.UTC.anon.ipv6.pcap
+Analyzed Packets: 414872
+Amount of Flow-Packets: 82208 (19.8100%)
+Amount of different Flows: 29916 (7.2100%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 7169
+Average Number Packets/Flow: 2.74
+
+File: ../caida/equinix-nyc.dirA.20181115-132100.UTC.anon.ipv6.pcap
+Analyzed Packets: 416959
+Amount of Flow-Packets: 76969 (18.4500%)
+Amount of different Flows: 29636 (7.1000%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 9734
+Average Number Packets/Flow: 2.59
+
+File: ../caida/equinix-nyc.dirA.20181115-132200.UTC.anon.ipv6.pcap
+Analyzed Packets: 420139
+Amount of Flow-Packets: 78485 (18.6800%)
+Amount of different Flows: 30319 (7.2100%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 9896
+Average Number Packets/Flow: 2.58
+
+File: ../caida/equinix-nyc.dirA.20181115-132300.UTC.anon.ipv6.pcap
+Analyzed Packets: 402138
+Amount of Flow-Packets: 74968 (18.6400%)
+Amount of different Flows: 29486 (7.3300%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 6952
+Average Number Packets/Flow: 2.54
+
+File: ../caida/equinix-nyc.dirA.20181115-132358.UTC.anon.ipv6.pcap
+Analyzed Packets: 6797
+Amount of Flow-Packets: 1034 (15.2100%)
+Amount of different Flows: 585 (8.6000%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 261
+Average Number Packets/Flow: 1.76
+
+File: ../caida/equinix-nyc.dirA.20181115-132400.UTC.anon.ipv6.pcap
+Analyzed Packets: 404835
+Amount of Flow-Packets: 69110 (17.0700%)
+Amount of different Flows: 30276 (7.4700%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 2864
+Average Number Packets/Flow: 2.28
+
+File: ../caida/equinix-nyc.dirA.20181115-132500.UTC.anon.ipv6.pcap
+Analyzed Packets: 420516
+Amount of Flow-Packets: 75342 (17.9100%)
+Amount of different Flows: 28576 (6.7900%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 3513
+Average Number Packets/Flow: 2.63
+
+File: ../caida/equinix-nyc.dirA.20181115-132600.UTC.anon.ipv6.pcap
+Analyzed Packets: 430564
+Amount of Flow-Packets: 74480 (17.2900%)
+Amount of different Flows: 28990 (6.7300%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 3817
+Average Number Packets/Flow: 2.56
+
+File: ../caida/equinix-nyc.dirA.20181115-132700.UTC.anon.ipv6.pcap
+Analyzed Packets: 397719
+Amount of Flow-Packets: 62925 (15.8200%)
+Amount of different Flows: 29365 (7.3800%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 1988
+Average Number Packets/Flow: 2.14
+
+File: ../caida/equinix-nyc.dirA.20181115-132800.UTC.anon.ipv6.pcap
+Analyzed Packets: 417531
+Amount of Flow-Packets: 74377 (17.8100%)
+Amount of different Flows: 29326 (7.0200%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 7272
+Average Number Packets/Flow: 2.53
+
+File: ../caida/equinix-nyc.dirA.20181115-132900.UTC.anon.ipv6.pcap
+Analyzed Packets: 425818
+Amount of Flow-Packets: 88911 (20.8800%)
+Amount of different Flows: 29937 (7.0300%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 11774
+Average Number Packets/Flow: 2.96
+
+File: ../caida/equinix-nyc.dirA.20181115-133000.UTC.anon.ipv6.pcap
+Analyzed Packets: 436144
+Amount of Flow-Packets: 91851 (21.0500%)
+Amount of different Flows: 30337 (6.9500%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 15826
+Average Number Packets/Flow: 3.02
+
+File: ../caida/equinix-nyc.dirA.20181115-133100.UTC.anon.ipv6.pcap
+Analyzed Packets: 426569
+Amount of Flow-Packets: 79087 (18.5400%)
+Amount of different Flows: 29211 (6.8400%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 9641
+Average Number Packets/Flow: 2.70
+
+File: ../caida/equinix-nyc.dirA.20181115-133200.UTC.anon.ipv6.pcap
+Analyzed Packets: 441078
+Amount of Flow-Packets: 87078 (19.7400%)
+Amount of different Flows: 29118 (6.6000%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 11543
+Average Number Packets/Flow: 2.99
+
+File: ../caida/equinix-nyc.dirA.20181115-133300.UTC.anon.ipv6.pcap
+Analyzed Packets: 464196
+Amount of Flow-Packets: 111781 (24.0800%)
+Amount of different Flows: 29694 (6.3900%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 6635
+Average Number Packets/Flow: 3.76
+
+File: ../caida/equinix-nyc.dirA.20181115-133400.UTC.anon.ipv6.pcap
+Analyzed Packets: 490681
+Amount of Flow-Packets: 113515 (23.1300%)
+Amount of different Flows: 29036 (5.9100%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 8831
+Average Number Packets/Flow: 3.90
+
+File: ../caida/equinix-nyc.dirA.20181115-133500.UTC.anon.ipv6.pcap
+Analyzed Packets: 428826
+Amount of Flow-Packets: 81295 (18.9500%)
+Amount of different Flows: 29083 (6.7800%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 8830
+Average Number Packets/Flow: 2.79
+
+File: ../caida/equinix-nyc.dirA.20181115-133600.UTC.anon.ipv6.pcap
+Analyzed Packets: 461957
+Amount of Flow-Packets: 104163 (22.5400%)
+Amount of different Flows: 29178 (6.3100%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 5887
+Average Number Packets/Flow: 3.56
+
+File: ../caida/equinix-nyc.dirA.20181115-133700.UTC.anon.ipv6.pcap
+Analyzed Packets: 491425
+Amount of Flow-Packets: 146314 (29.7700%)
+Amount of different Flows: 29279 (5.9500%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 8835
+Average Number Packets/Flow: 4.99
+
+File: ../caida/equinix-nyc.dirA.20181115-133800.UTC.anon.ipv6.pcap
+Analyzed Packets: 472037
+Amount of Flow-Packets: 128464 (27.2100%)
+Amount of different Flows: 29062 (6.1500%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 13250
+Average Number Packets/Flow: 4.42
+
+File: ../caida/equinix-nyc.dirA.20181115-133900.UTC.anon.ipv6.pcap
+Analyzed Packets: 465927
+Amount of Flow-Packets: 120636 (25.8900%)
+Amount of different Flows: 29054 (6.2300%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 7356
+Average Number Packets/Flow: 4.15
+
+File: ../caida/equinix-nyc.dirA.20181115-134000.UTC.anon.ipv6.pcap
+Analyzed Packets: 451208
+Amount of Flow-Packets: 104234 (23.1000%)
+Amount of different Flows: 27985 (6.2000%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 5887
+Average Number Packets/Flow: 3.72
+
+File: ../caida/equinix-nyc.dirA.20181115-134100.UTC.anon.ipv6.pcap
+Analyzed Packets: 473274
+Amount of Flow-Packets: 124523 (26.3100%)
+Amount of different Flows: 28858 (6.0900%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 8830
+Average Number Packets/Flow: 4.31
+
+File: ../caida/equinix-nyc.dirA.20181115-134200.UTC.anon.ipv6.pcap
+Analyzed Packets: 446518
+Amount of Flow-Packets: 95801 (21.4500%)
+Amount of different Flows: 29230 (6.5400%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 7354
+Average Number Packets/Flow: 3.27
+
+File: ../caida/equinix-nyc.dirA.20181115-134300.UTC.anon.ipv6.pcap
+Analyzed Packets: 440256
+Amount of Flow-Packets: 92800 (21.0700%)
+Amount of different Flows: 29275 (6.6400%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 8829
+Average Number Packets/Flow: 3.16
+
+File: ../caida/equinix-nyc.dirA.20181115-134400.UTC.anon.ipv6.pcap
+Analyzed Packets: 433218
+Amount of Flow-Packets: 86304 (19.9200%)
+Amount of different Flows: 28744 (6.6300%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 10036
+Average Number Packets/Flow: 3.00
+
+File: ../caida/equinix-nyc.dirA.20181115-134500.UTC.anon.ipv6.pcap
+Analyzed Packets: 449803
+Amount of Flow-Packets: 79806 (17.7400%)
+Amount of different Flows: 29163 (6.4800%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 6670
+Average Number Packets/Flow: 2.73
+
+File: ../caida/equinix-nyc.dirA.20181115-134600.UTC.anon.ipv6.pcap
+Analyzed Packets: 446269
+Amount of Flow-Packets: 84603 (18.9500%)
+Amount of different Flows: 29739 (6.6600%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 7078
+Average Number Packets/Flow: 2.84
+
+File: ../caida/equinix-nyc.dirA.20181115-134700.UTC.anon.ipv6.pcap
+Analyzed Packets: 424016
+Amount of Flow-Packets: 78681 (18.5500%)
+Amount of different Flows: 28421 (6.7000%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 8420
+Average Number Packets/Flow: 2.76
+
+File: ../caida/equinix-nyc.dirA.20181115-134800.UTC.anon.ipv6.pcap
+Analyzed Packets: 451772
+Amount of Flow-Packets: 104556 (23.1400%)
+Amount of different Flows: 28294 (6.2600%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 13359
+Average Number Packets/Flow: 3.69
+
+File: ../caida/equinix-nyc.dirA.20181115-134900.UTC.anon.ipv6.pcap
+Analyzed Packets: 435894
+Amount of Flow-Packets: 102686 (23.5500%)
+Amount of different Flows: 28560 (6.5500%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 11992
+Average Number Packets/Flow: 3.59
+
+File: ../caida/equinix-nyc.dirA.20181115-135000.UTC.anon.ipv6.pcap
+Analyzed Packets: 451593
+Amount of Flow-Packets: 100911 (22.3400%)
+Amount of different Flows: 28324 (6.2700%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 7191
+Average Number Packets/Flow: 3.56
+
+File: ../caida/equinix-nyc.dirA.20181115-135100.UTC.anon.ipv6.pcap
+Analyzed Packets: 462467
+Amount of Flow-Packets: 113247 (24.4800%)
+Amount of different Flows: 28799 (6.2200%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 9723
+Average Number Packets/Flow: 3.93
+
+File: ../caida/equinix-nyc.dirA.20181115-135200.UTC.anon.ipv6.pcap
+Analyzed Packets: 429656
+Amount of Flow-Packets: 90454 (21.0500%)
+Amount of different Flows: 27766 (6.4600%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 12488
+Average Number Packets/Flow: 3.25
+
+File: ../caida/equinix-nyc.dirA.20181115-135300.UTC.anon.ipv6.pcap
+Analyzed Packets: 456955
+Amount of Flow-Packets: 120086 (26.2700%)
+Amount of different Flows: 27915 (6.1000%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 15333
+Average Number Packets/Flow: 4.30
+
+File: ../caida/equinix-nyc.dirA.20181115-135400.UTC.anon.ipv6.pcap
+Analyzed Packets: 562301
+Amount of Flow-Packets: 220741 (39.2500%)
+Amount of different Flows: 28059 (4.9900%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 36128
+Average Number Packets/Flow: 7.86
+
+File: ../caida/equinix-nyc.dirA.20181115-135500.UTC.anon.ipv6.pcap
+Analyzed Packets: 438765
+Amount of Flow-Packets: 95470 (21.7500%)
+Amount of different Flows: 29692 (6.7600%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 13215
+Average Number Packets/Flow: 3.21
+
+File: ../caida/equinix-nyc.dirA.20181115-135600.UTC.anon.ipv6.pcap
+Analyzed Packets: 446421
+Amount of Flow-Packets: 92964 (20.8200%)
+Amount of different Flows: 30105 (6.7400%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 13101
+Average Number Packets/Flow: 3.08
+
+File: ../caida/equinix-nyc.dirA.20181115-135700.UTC.anon.ipv6.pcap
+Analyzed Packets: 421916
+Amount of Flow-Packets: 83537 (19.7900%)
+Amount of different Flows: 29482 (6.9800%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 10992
+Average Number Packets/Flow: 2.83
+
+File: ../caida/equinix-nyc.dirA.20181115-135800.UTC.anon.ipv6.pcap
+Analyzed Packets: 439629
+Amount of Flow-Packets: 99979 (22.7400%)
+Amount of different Flows: 28125 (6.3900%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 17365
+Average Number Packets/Flow: 3.55
+
+File: ../caida/equinix-nyc.dirA.20181115-135900.UTC.anon.ipv6.pcap
+Analyzed Packets: 463170
+Amount of Flow-Packets: 125151 (27.0200%)
+Amount of different Flows: 29012 (6.2600%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 18323
+Average Number Packets/Flow: 4.31
+
+File: ../caida/equinix-nyc.dirA.20181115-140000.UTC.anon.ipv6.pcap
+Analyzed Packets: 498309
+Amount of Flow-Packets: 126712 (25.4200%)
+Amount of different Flows: 30867 (6.1900%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 18975
+Average Number Packets/Flow: 4.10
+
+File: ../caida/equinix-nyc.dirA.20181115-140100.UTC.anon.ipv6.pcap
+Analyzed Packets: 83716
+Amount of Flow-Packets: 21001 (25.0800%)
+Amount of different Flows: 5535 (6.6100%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 3597
+Average Number Packets/Flow: 3.79
+
+File: ../caida/equinix-nyc.dirB.20181115-125910.UTC.anon.ipv6.pcap
+Analyzed Packets: 3862649
+Amount of Flow-Packets: 2074990 (53.7100%)
+Amount of different Flows: 502044 (12.9900%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 25231
+Average Number Packets/Flow: 4.13
+
+File: ../caida/equinix-nyc.dirB.20181115-130000.UTC.anon.ipv6.pcap
+Analyzed Packets: 4721452
+Amount of Flow-Packets: 2571146 (54.4500%)
+Amount of different Flows: 630543 (13.3500%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 20761
+Average Number Packets/Flow: 4.07
+
+File: ../caida/equinix-nyc.dirB.20181115-130100.UTC.anon.ipv6.pcap
+Analyzed Packets: 4570339
+Amount of Flow-Packets: 2541751 (55.6100%)
+Amount of different Flows: 617093 (13.5000%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 25468
+Average Number Packets/Flow: 4.11
+
+File: ../caida/equinix-nyc.dirB.20181115-130200.UTC.anon.ipv6.pcap
+Analyzed Packets: 4930175
+Amount of Flow-Packets: 2591378 (52.5600%)
+Amount of different Flows: 619956 (12.5700%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 39275
+Average Number Packets/Flow: 4.17
+
+File: ../caida/equinix-nyc.dirB.20181115-130300.UTC.anon.ipv6.pcap
+Analyzed Packets: 4799655
+Amount of Flow-Packets: 2521231 (52.5200%)
+Amount of different Flows: 614071 (12.7900%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 20722
+Average Number Packets/Flow: 4.10
+
+File: ../caida/equinix-nyc.dirB.20181115-130400.UTC.anon.ipv6.pcap
+Analyzed Packets: 4691994
+Amount of Flow-Packets: 2456055 (52.3400%)
+Amount of different Flows: 609042 (12.9800%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 18040
+Average Number Packets/Flow: 4.03
+
+File: ../caida/equinix-nyc.dirB.20181115-130500.UTC.anon.ipv6.pcap
+Analyzed Packets: 4678685
+Amount of Flow-Packets: 2498514 (53.4000%)
+Amount of different Flows: 619508 (13.2400%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 32212
+Average Number Packets/Flow: 4.03
+
+File: ../caida/equinix-nyc.dirB.20181115-130600.UTC.anon.ipv6.pcap
+Analyzed Packets: 4681453
+Amount of Flow-Packets: 2551515 (54.5000%)
+Amount of different Flows: 621187 (13.2600%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 27472
+Average Number Packets/Flow: 4.10
+
+File: ../caida/equinix-nyc.dirB.20181115-130700.UTC.anon.ipv6.pcap
+Analyzed Packets: 4785267
+Amount of Flow-Packets: 2612575 (54.5900%)
+Amount of different Flows: 626765 (13.0900%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 49574
+Average Number Packets/Flow: 4.16
+
+File: ../caida/equinix-nyc.dirB.20181115-130800.UTC.anon.ipv6.pcap
+Analyzed Packets: 4878893
+Amount of Flow-Packets: 2676631 (54.8600%)
+Amount of different Flows: 625587 (12.8200%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 101816
+Average Number Packets/Flow: 4.27
+
+File: ../caida/equinix-nyc.dirB.20181115-130900.UTC.anon.ipv6.pcap
+Analyzed Packets: 4786404
+Amount of Flow-Packets: 2583212 (53.9600%)
+Amount of different Flows: 622223 (12.9900%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 22522
+Average Number Packets/Flow: 4.15
+
+File: ../caida/equinix-nyc.dirB.20181115-131000.UTC.anon.ipv6.pcap
+Analyzed Packets: 4785935
+Amount of Flow-Packets: 2598577 (54.2900%)
+Amount of different Flows: 630501 (13.1700%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 19180
+Average Number Packets/Flow: 4.12
+
+File: ../caida/equinix-nyc.dirB.20181115-131100.UTC.anon.ipv6.pcap
+Analyzed Packets: 4734998
+Amount of Flow-Packets: 2557405 (54.0100%)
+Amount of different Flows: 617517 (13.0400%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 33590
+Average Number Packets/Flow: 4.14
+
+File: ../caida/equinix-nyc.dirB.20181115-131200.UTC.anon.ipv6.pcap
+Analyzed Packets: 4771846
+Amount of Flow-Packets: 2564413 (53.7400%)
+Amount of different Flows: 627369 (13.1400%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 50919
+Average Number Packets/Flow: 4.08
+
+File: ../caida/equinix-nyc.dirB.20181115-131300.UTC.anon.ipv6.pcap
+Analyzed Packets: 4758321
+Amount of Flow-Packets: 2589983 (54.4300%)
+Amount of different Flows: 626354 (13.1600%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 36230
+Average Number Packets/Flow: 4.13
+
+File: ../caida/equinix-nyc.dirB.20181115-131400.UTC.anon.ipv6.pcap
+Analyzed Packets: 4926841
+Amount of Flow-Packets: 2640831 (53.6000%)
+Amount of different Flows: 618404 (12.5500%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 56413
+Average Number Packets/Flow: 4.27
+
+File: ../caida/equinix-nyc.dirB.20181115-131500.UTC.anon.ipv6.pcap
+Analyzed Packets: 5029076
+Amount of Flow-Packets: 2674957 (53.1800%)
+Amount of different Flows: 627277 (12.4700%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 62194
+Average Number Packets/Flow: 4.26
+
+File: ../caida/equinix-nyc.dirB.20181115-131600.UTC.anon.ipv6.pcap
+Analyzed Packets: 4916850
+Amount of Flow-Packets: 2682956 (54.5600%)
+Amount of different Flows: 618274 (12.5700%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 60721
+Average Number Packets/Flow: 4.33
+
+File: ../caida/equinix-nyc.dirB.20181115-131700.UTC.anon.ipv6.pcap
+Analyzed Packets: 4834862
+Amount of Flow-Packets: 2594699 (53.6600%)
+Amount of different Flows: 613979 (12.6900%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 35996
+Average Number Packets/Flow: 4.22
+
+File: ../caida/equinix-nyc.dirB.20181115-131800.UTC.anon.ipv6.pcap
+Analyzed Packets: 4909648
+Amount of Flow-Packets: 2628292 (53.5300%)
+Amount of different Flows: 617929 (12.5800%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 41143
+Average Number Packets/Flow: 4.25
+
+File: ../caida/equinix-nyc.dirB.20181115-131900.UTC.anon.ipv6.pcap
+Analyzed Packets: 4847682
+Amount of Flow-Packets: 2633095 (54.3100%)
+Amount of different Flows: 611191 (12.6000%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 54545
+Average Number Packets/Flow: 4.30
+
+File: ../caida/equinix-nyc.dirB.20181115-131947.UTC.anon.ipv6.pcap
+Analyzed Packets: 984353
+Amount of Flow-Packets: 541411 (55.0000%)
+Amount of different Flows: 132386 (13.4400%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 8577
+Average Number Packets/Flow: 4.08
+
+File: ../caida/equinix-nyc.dirB.20181115-132000.UTC.anon.ipv6.pcap
+Analyzed Packets: 4975628
+Amount of Flow-Packets: 2660326 (53.4600%)
+Amount of different Flows: 621074 (12.4800%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 59879
+Average Number Packets/Flow: 4.28
+
+File: ../caida/equinix-nyc.dirB.20181115-132100.UTC.anon.ipv6.pcap
+Analyzed Packets: 4939389
+Amount of Flow-Packets: 2623644 (53.1100%)
+Amount of different Flows: 616076 (12.4700%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 59753
+Average Number Packets/Flow: 4.25
+
+File: ../caida/equinix-nyc.dirB.20181115-132200.UTC.anon.ipv6.pcap
+Analyzed Packets: 4929979
+Amount of Flow-Packets: 2600994 (52.7500%)
+Amount of different Flows: 616049 (12.4900%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 46980
+Average Number Packets/Flow: 4.22
+
+File: ../caida/equinix-nyc.dirB.20181115-132300.UTC.anon.ipv6.pcap
+Analyzed Packets: 4978825
+Amount of Flow-Packets: 2761870 (55.4700%)
+Amount of different Flows: 610827 (12.2600%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 52868
+Average Number Packets/Flow: 4.52
+
+File: ../caida/equinix-nyc.dirB.20181115-132400.UTC.anon.ipv6.pcap
+Analyzed Packets: 4886255
+Amount of Flow-Packets: 2710058 (55.4600%)
+Amount of different Flows: 610721 (12.4900%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 35074
+Average Number Packets/Flow: 4.43
+
+File: ../caida/equinix-nyc.dirB.20181115-132500.UTC.anon.ipv6.pcap
+Analyzed Packets: 4817217
+Amount of Flow-Packets: 2737247 (56.8200%)
+Amount of different Flows: 600478 (12.4600%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 58917
+Average Number Packets/Flow: 4.55
+
+File: ../caida/equinix-nyc.dirB.20181115-132600.UTC.anon.ipv6.pcap
+Analyzed Packets: 4940380
+Amount of Flow-Packets: 2739675 (55.4500%)
+Amount of different Flows: 615016 (12.4400%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 42782
+Average Number Packets/Flow: 4.45
+
+File: ../caida/equinix-nyc.dirB.20181115-132700.UTC.anon.ipv6.pcap
+Analyzed Packets: 4845738
+Amount of Flow-Packets: 2672258 (55.1400%)
+Amount of different Flows: 613210 (12.6500%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 37596
+Average Number Packets/Flow: 4.35
+
+File: ../caida/equinix-nyc.dirB.20181115-132800.UTC.anon.ipv6.pcap
+Analyzed Packets: 4897025
+Amount of Flow-Packets: 2652544 (54.1600%)
+Amount of different Flows: 614161 (12.5400%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 36339
+Average Number Packets/Flow: 4.31
+
+File: ../caida/equinix-nyc.dirB.20181115-132900.UTC.anon.ipv6.pcap
+Analyzed Packets: 5069906
+Amount of Flow-Packets: 2678801 (52.8300%)
+Amount of different Flows: 622251 (12.2700%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 42395
+Average Number Packets/Flow: 4.30
+
+File: ../caida/equinix-nyc.dirB.20181115-133000.UTC.anon.ipv6.pcap
+Analyzed Packets: 5258636
+Amount of Flow-Packets: 2843931 (54.0800%)
+Amount of different Flows: 621571 (11.8200%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 47715
+Average Number Packets/Flow: 4.57
+
+File: ../caida/equinix-nyc.dirB.20181115-133100.UTC.anon.ipv6.pcap
+Analyzed Packets: 5128044
+Amount of Flow-Packets: 2765267 (53.9200%)
+Amount of different Flows: 615711 (12.0000%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 42367
+Average Number Packets/Flow: 4.49
+
+File: ../caida/equinix-nyc.dirB.20181115-133200.UTC.anon.ipv6.pcap
+Analyzed Packets: 4983390
+Amount of Flow-Packets: 2623131 (52.6300%)
+Amount of different Flows: 622774 (12.4900%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 29022
+Average Number Packets/Flow: 4.21
+
+File: ../caida/equinix-nyc.dirB.20181115-133300.UTC.anon.ipv6.pcap
+Analyzed Packets: 5137560
+Amount of Flow-Packets: 2748769 (53.5000%)
+Amount of different Flows: 627865 (12.2200%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 30309
+Average Number Packets/Flow: 4.37
+
+File: ../caida/equinix-nyc.dirB.20181115-133400.UTC.anon.ipv6.pcap
+Analyzed Packets: 4954119
+Amount of Flow-Packets: 2678605 (54.0600%)
+Amount of different Flows: 618444 (12.4800%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 54590
+Average Number Packets/Flow: 4.33
+
+File: ../caida/equinix-nyc.dirB.20181115-133500.UTC.anon.ipv6.pcap
+Analyzed Packets: 5040921
+Amount of Flow-Packets: 2816251 (55.8600%)
+Amount of different Flows: 625472 (12.4000%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 59257
+Average Number Packets/Flow: 4.50
+
+File: ../caida/equinix-nyc.dirB.20181115-133600.UTC.anon.ipv6.pcap
+Analyzed Packets: 5026904
+Amount of Flow-Packets: 2764365 (54.9900%)
+Amount of different Flows: 632719 (12.5800%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 46408
+Average Number Packets/Flow: 4.36
+
+File: ../caida/equinix-nyc.dirB.20181115-133700.UTC.anon.ipv6.pcap
+Analyzed Packets: 4951414
+Amount of Flow-Packets: 2704142 (54.6100%)
+Amount of different Flows: 637229 (12.8600%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 39100
+Average Number Packets/Flow: 4.24
+
+File: ../caida/equinix-nyc.dirB.20181115-133800.UTC.anon.ipv6.pcap
+Analyzed Packets: 5029868
+Amount of Flow-Packets: 2752167 (54.7100%)
+Amount of different Flows: 640855 (12.7400%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 28204
+Average Number Packets/Flow: 4.29
+
+File: ../caida/equinix-nyc.dirB.20181115-133900.UTC.anon.ipv6.pcap
+Analyzed Packets: 4953766
+Amount of Flow-Packets: 2674086 (53.9800%)
+Amount of different Flows: 644194 (13.0000%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 38119
+Average Number Packets/Flow: 4.15
+
+File: ../caida/equinix-nyc.dirB.20181115-134000.UTC.anon.ipv6.pcap
+Analyzed Packets: 4784318
+Amount of Flow-Packets: 2601100 (54.3600%)
+Amount of different Flows: 625261 (13.0600%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 33733
+Average Number Packets/Flow: 4.16
+
+File: ../caida/equinix-nyc.dirB.20181115-134100.UTC.anon.ipv6.pcap
+Analyzed Packets: 4982328
+Amount of Flow-Packets: 2641572 (53.0100%)
+Amount of different Flows: 641043 (12.8600%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 33964
+Average Number Packets/Flow: 4.12
+
+File: ../caida/equinix-nyc.dirB.20181115-134200.UTC.anon.ipv6.pcap
+Analyzed Packets: 5157346
+Amount of Flow-Packets: 2799988 (54.2900%)
+Amount of different Flows: 629980 (12.2100%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 35087
+Average Number Packets/Flow: 4.44
+
+File: ../caida/equinix-nyc.dirB.20181115-134300.UTC.anon.ipv6.pcap
+Analyzed Packets: 5123527
+Amount of Flow-Packets: 2755080 (53.7700%)
+Amount of different Flows: 632034 (12.3300%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 52683
+Average Number Packets/Flow: 4.35
+
+File: ../caida/equinix-nyc.dirB.20181115-134400.UTC.anon.ipv6.pcap
+Analyzed Packets: 5097827
+Amount of Flow-Packets: 2753881 (54.0200%)
+Amount of different Flows: 630626 (12.3700%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 32742
+Average Number Packets/Flow: 4.36
+
+File: ../caida/equinix-nyc.dirB.20181115-134500.UTC.anon.ipv6.pcap
+Analyzed Packets: 5182978
+Amount of Flow-Packets: 2756509 (53.1800%)
+Amount of different Flows: 636757 (12.2800%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 52343
+Average Number Packets/Flow: 4.32
+
+File: ../caida/equinix-nyc.dirB.20181115-134600.UTC.anon.ipv6.pcap
+Analyzed Packets: 5302944
+Amount of Flow-Packets: 2868894 (54.1000%)
+Amount of different Flows: 632497 (11.9200%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 50707
+Average Number Packets/Flow: 4.53
+
+File: ../caida/equinix-nyc.dirB.20181115-134700.UTC.anon.ipv6.pcap
+Analyzed Packets: 5398268
+Amount of Flow-Packets: 2887199 (53.4800%)
+Amount of different Flows: 635369 (11.7600%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 59062
+Average Number Packets/Flow: 4.54
+
+File: ../caida/equinix-nyc.dirB.20181115-134800.UTC.anon.ipv6.pcap
+Analyzed Packets: 5374020
+Amount of Flow-Packets: 2912780 (54.2000%)
+Amount of different Flows: 631854 (11.7500%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 60888
+Average Number Packets/Flow: 4.60
+
+File: ../caida/equinix-nyc.dirB.20181115-134900.UTC.anon.ipv6.pcap
+Analyzed Packets: 5328782
+Amount of Flow-Packets: 2874445 (53.9400%)
+Amount of different Flows: 633684 (11.8900%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 72131
+Average Number Packets/Flow: 4.53
+
+File: ../caida/equinix-nyc.dirB.20181115-135000.UTC.anon.ipv6.pcap
+Analyzed Packets: 5406214
+Amount of Flow-Packets: 2860251 (52.9000%)
+Amount of different Flows: 621903 (11.5000%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 76076
+Average Number Packets/Flow: 4.59
+
+File: ../caida/equinix-nyc.dirB.20181115-135100.UTC.anon.ipv6.pcap
+Analyzed Packets: 5225090
+Amount of Flow-Packets: 2827409 (54.1100%)
+Amount of different Flows: 631750 (12.0900%)
+Minimum Number Packets/Flow: 1
+Maximum Number Packets/Flow: 32599
+Average Number Packets/Flow: 4.47
+

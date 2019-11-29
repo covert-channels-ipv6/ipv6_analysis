@@ -1,0 +1,434 @@
+Script looks for nxt field in Fragment Extension Headers
+
+File: ../caida/equinix-nyc.dirA.20181115-125910.UTC.anon.ipv6.pcap
+421 17
+
+File: ../caida/equinix-nyc.dirA.20181115-130000.UTC.anon.ipv6.pcap
+536 17
+
+File: ../caida/equinix-nyc.dirA.20181115-130100.UTC.anon.ipv6.pcap
+552 17
+
+File: ../caida/equinix-nyc.dirA.20181115-130200.UTC.anon.ipv6.pcap
+578 17
+
+File: ../caida/equinix-nyc.dirA.20181115-130300.UTC.anon.ipv6.pcap
+508 17
+
+File: ../caida/equinix-nyc.dirA.20181115-130400.UTC.anon.ipv6.pcap
+532 17
+
+File: ../caida/equinix-nyc.dirA.20181115-130500.UTC.anon.ipv6.pcap
+2 6
+605 17
+
+File: ../caida/equinix-nyc.dirA.20181115-130600.UTC.anon.ipv6.pcap
+717 17
+
+File: ../caida/equinix-nyc.dirA.20181115-130700.UTC.anon.ipv6.pcap
+645 17
+
+File: ../caida/equinix-nyc.dirA.20181115-130800.UTC.anon.ipv6.pcap
+490 17
+
+File: ../caida/equinix-nyc.dirA.20181115-130900.UTC.anon.ipv6.pcap
+531 17
+
+File: ../caida/equinix-nyc.dirA.20181115-131000.UTC.anon.ipv6.pcap
+515 17
+
+File: ../caida/equinix-nyc.dirA.20181115-131100.UTC.anon.ipv6.pcap
+557 17
+
+File: ../caida/equinix-nyc.dirA.20181115-131200.UTC.anon.ipv6.pcap
+646 17
+
+File: ../caida/equinix-nyc.dirA.20181115-131300.UTC.anon.ipv6.pcap
+660 17
+
+File: ../caida/equinix-nyc.dirA.20181115-131400.UTC.anon.ipv6.pcap
+546 17
+
+File: ../caida/equinix-nyc.dirA.20181115-131500.UTC.anon.ipv6.pcap
+482 17
+
+File: ../caida/equinix-nyc.dirA.20181115-131600.UTC.anon.ipv6.pcap
+470 17
+
+File: ../caida/equinix-nyc.dirA.20181115-131700.UTC.anon.ipv6.pcap
+560 17
+
+File: ../caida/equinix-nyc.dirA.20181115-131800.UTC.anon.ipv6.pcap
+575 17
+
+File: ../caida/equinix-nyc.dirA.20181115-131900.UTC.anon.ipv6.pcap
+654 17
+
+File: ../caida/equinix-nyc.dirA.20181115-132000.UTC.anon.ipv6.pcap
+668 17
+
+File: ../caida/equinix-nyc.dirA.20181115-132100.UTC.anon.ipv6.pcap
+640 17
+
+File: ../caida/equinix-nyc.dirA.20181115-132200.UTC.anon.ipv6.pcap
+577 17
+
+File: ../caida/equinix-nyc.dirA.20181115-132300.UTC.anon.ipv6.pcap
+515 17
+
+File: ../caida/equinix-nyc.dirA.20181115-132358.UTC.anon.ipv6.pcap
+6 17
+
+File: ../caida/equinix-nyc.dirA.20181115-132400.UTC.anon.ipv6.pcap
+555 17
+
+File: ../caida/equinix-nyc.dirA.20181115-132500.UTC.anon.ipv6.pcap
+587 17
+
+File: ../caida/equinix-nyc.dirA.20181115-132600.UTC.anon.ipv6.pcap
+705 17
+
+File: ../caida/equinix-nyc.dirA.20181115-132700.UTC.anon.ipv6.pcap
+599 17
+
+File: ../caida/equinix-nyc.dirA.20181115-132800.UTC.anon.ipv6.pcap
+708 17
+
+File: ../caida/equinix-nyc.dirA.20181115-132900.UTC.anon.ipv6.pcap
+603 17
+
+File: ../caida/equinix-nyc.dirA.20181115-133000.UTC.anon.ipv6.pcap
+702 17
+
+File: ../caida/equinix-nyc.dirA.20181115-133100.UTC.anon.ipv6.pcap
+543 17
+
+File: ../caida/equinix-nyc.dirA.20181115-133200.UTC.anon.ipv6.pcap
+729 17
+
+File: ../caida/equinix-nyc.dirA.20181115-133300.UTC.anon.ipv6.pcap
+549 17
+
+File: ../caida/equinix-nyc.dirA.20181115-133400.UTC.anon.ipv6.pcap
+513 17
+
+File: ../caida/equinix-nyc.dirA.20181115-133500.UTC.anon.ipv6.pcap
+600 17
+
+File: ../caida/equinix-nyc.dirA.20181115-133600.UTC.anon.ipv6.pcap
+635 17
+
+File: ../caida/equinix-nyc.dirA.20181115-133700.UTC.anon.ipv6.pcap
+591 17
+
+File: ../caida/equinix-nyc.dirA.20181115-133800.UTC.anon.ipv6.pcap
+669 17
+
+File: ../caida/equinix-nyc.dirA.20181115-133900.UTC.anon.ipv6.pcap
+745 17
+
+File: ../caida/equinix-nyc.dirA.20181115-134000.UTC.anon.ipv6.pcap
+507 17
+
+File: ../caida/equinix-nyc.dirA.20181115-134100.UTC.anon.ipv6.pcap
+602 17
+
+File: ../caida/equinix-nyc.dirA.20181115-134200.UTC.anon.ipv6.pcap
+634 17
+
+File: ../caida/equinix-nyc.dirA.20181115-134300.UTC.anon.ipv6.pcap
+577 17
+
+File: ../caida/equinix-nyc.dirA.20181115-134400.UTC.anon.ipv6.pcap
+616 17
+
+File: ../caida/equinix-nyc.dirA.20181115-134500.UTC.anon.ipv6.pcap
+686 17
+
+File: ../caida/equinix-nyc.dirA.20181115-134600.UTC.anon.ipv6.pcap
+590 17
+
+File: ../caida/equinix-nyc.dirA.20181115-134700.UTC.anon.ipv6.pcap
+608 17
+
+File: ../caida/equinix-nyc.dirA.20181115-134800.UTC.anon.ipv6.pcap
+786 17
+
+File: ../caida/equinix-nyc.dirA.20181115-134900.UTC.anon.ipv6.pcap
+637 17
+
+File: ../caida/equinix-nyc.dirA.20181115-135000.UTC.anon.ipv6.pcap
+739 17
+
+File: ../caida/equinix-nyc.dirA.20181115-135100.UTC.anon.ipv6.pcap
+754 17
+
+File: ../caida/equinix-nyc.dirA.20181115-135200.UTC.anon.ipv6.pcap
+749 17
+
+File: ../caida/equinix-nyc.dirA.20181115-135300.UTC.anon.ipv6.pcap
+698 17
+
+File: ../caida/equinix-nyc.dirA.20181115-135400.UTC.anon.ipv6.pcap
+611 17
+
+File: ../caida/equinix-nyc.dirA.20181115-135500.UTC.anon.ipv6.pcap
+718 17
+
+File: ../caida/equinix-nyc.dirA.20181115-135600.UTC.anon.ipv6.pcap
+612 17
+
+File: ../caida/equinix-nyc.dirA.20181115-135700.UTC.anon.ipv6.pcap
+753 17
+
+File: ../caida/equinix-nyc.dirA.20181115-135800.UTC.anon.ipv6.pcap
+555 17
+
+File: ../caida/equinix-nyc.dirA.20181115-135900.UTC.anon.ipv6.pcap
+496 17
+
+File: ../caida/equinix-nyc.dirA.20181115-140000.UTC.anon.ipv6.pcap
+580 17
+
+File: ../caida/equinix-nyc.dirA.20181115-140100.UTC.anon.ipv6.pcap
+125 17
+
+File: ../caida/equinix-nyc.dirB.20181115-125910.UTC.anon.ipv6.pcap
+30 6
+52 17
+
+File: ../caida/equinix-nyc.dirB.20181115-130000.UTC.anon.ipv6.pcap
+4 6
+82 17
+9 58
+
+File: ../caida/equinix-nyc.dirB.20181115-130100.UTC.anon.ipv6.pcap
+11 6
+73 17
+
+File: ../caida/equinix-nyc.dirB.20181115-130200.UTC.anon.ipv6.pcap
+8 6
+86 17
+
+File: ../caida/equinix-nyc.dirB.20181115-130300.UTC.anon.ipv6.pcap
+15 6
+48 17
+
+File: ../caida/equinix-nyc.dirB.20181115-130400.UTC.anon.ipv6.pcap
+9 6
+72 17
+10 58
+
+File: ../caida/equinix-nyc.dirB.20181115-130500.UTC.anon.ipv6.pcap
+20 6
+112 17
+2 58
+
+File: ../caida/equinix-nyc.dirB.20181115-130600.UTC.anon.ipv6.pcap
+9 6
+110 17
+6 58
+
+File: ../caida/equinix-nyc.dirB.20181115-130700.UTC.anon.ipv6.pcap
+18 6
+55 17
+2 58
+
+File: ../caida/equinix-nyc.dirB.20181115-130800.UTC.anon.ipv6.pcap
+20 6
+97 17
+2 58
+
+File: ../caida/equinix-nyc.dirB.20181115-130900.UTC.anon.ipv6.pcap
+6 6
+83 17
+6 58
+
+File: ../caida/equinix-nyc.dirB.20181115-131000.UTC.anon.ipv6.pcap
+25 6
+48 17
+12 58
+
+File: ../caida/equinix-nyc.dirB.20181115-131100.UTC.anon.ipv6.pcap
+12 6
+80 17
+8 58
+
+File: ../caida/equinix-nyc.dirB.20181115-131200.UTC.anon.ipv6.pcap
+4 6
+79 17
+
+File: ../caida/equinix-nyc.dirB.20181115-131300.UTC.anon.ipv6.pcap
+7 6
+80 17
+
+File: ../caida/equinix-nyc.dirB.20181115-131400.UTC.anon.ipv6.pcap
+19 6
+56 17
+
+File: ../caida/equinix-nyc.dirB.20181115-131500.UTC.anon.ipv6.pcap
+6 6
+82 17
+
+File: ../caida/equinix-nyc.dirB.20181115-131600.UTC.anon.ipv6.pcap
+32 6
+69 17
+
+File: ../caida/equinix-nyc.dirB.20181115-131700.UTC.anon.ipv6.pcap
+42 6
+66 17
+
+File: ../caida/equinix-nyc.dirB.20181115-131800.UTC.anon.ipv6.pcap
+26 6
+73 17
+
+File: ../caida/equinix-nyc.dirB.20181115-131900.UTC.anon.ipv6.pcap
+18 6
+72 17
+
+File: ../caida/equinix-nyc.dirB.20181115-131947.UTC.anon.ipv6.pcap
+16 17
+
+File: ../caida/equinix-nyc.dirB.20181115-132000.UTC.anon.ipv6.pcap
+57 6
+277 17
+2 58
+
+File: ../caida/equinix-nyc.dirB.20181115-132100.UTC.anon.ipv6.pcap
+30 6
+58 17
+2 58
+
+File: ../caida/equinix-nyc.dirB.20181115-132200.UTC.anon.ipv6.pcap
+8 6
+57 17
+4 58
+
+File: ../caida/equinix-nyc.dirB.20181115-132300.UTC.anon.ipv6.pcap
+14 6
+78 17
+9 50
+2 58
+
+File: ../caida/equinix-nyc.dirB.20181115-132400.UTC.anon.ipv6.pcap
+44 6
+60 17
+28 50
+
+File: ../caida/equinix-nyc.dirB.20181115-132500.UTC.anon.ipv6.pcap
+4 6
+45 17
+10 58
+
+File: ../caida/equinix-nyc.dirB.20181115-132600.UTC.anon.ipv6.pcap
+2 6
+89 17
+4 58
+
+File: ../caida/equinix-nyc.dirB.20181115-132700.UTC.anon.ipv6.pcap
+8 6
+66 17
+
+File: ../caida/equinix-nyc.dirB.20181115-132800.UTC.anon.ipv6.pcap
+14 6
+58 17
+
+File: ../caida/equinix-nyc.dirB.20181115-132900.UTC.anon.ipv6.pcap
+7 6
+66 17
+
+File: ../caida/equinix-nyc.dirB.20181115-133000.UTC.anon.ipv6.pcap
+16 6
+69 17
+
+File: ../caida/equinix-nyc.dirB.20181115-133100.UTC.anon.ipv6.pcap
+10 6
+55 17
+
+File: ../caida/equinix-nyc.dirB.20181115-133200.UTC.anon.ipv6.pcap
+2 6
+87 17
+
+File: ../caida/equinix-nyc.dirB.20181115-133300.UTC.anon.ipv6.pcap
+14 6
+107 17
+
+File: ../caida/equinix-nyc.dirB.20181115-133400.UTC.anon.ipv6.pcap
+16 6
+91 17
+
+File: ../caida/equinix-nyc.dirB.20181115-133500.UTC.anon.ipv6.pcap
+6 6
+109 17
+2 58
+
+File: ../caida/equinix-nyc.dirB.20181115-133600.UTC.anon.ipv6.pcap
+6 6
+90 17
+2 58
+
+File: ../caida/equinix-nyc.dirB.20181115-133700.UTC.anon.ipv6.pcap
+2 6
+117 17
+12 58
+
+File: ../caida/equinix-nyc.dirB.20181115-133800.UTC.anon.ipv6.pcap
+20 6
+85 17
+8 58
+
+File: ../caida/equinix-nyc.dirB.20181115-133900.UTC.anon.ipv6.pcap
+7 6
+82 17
+
+File: ../caida/equinix-nyc.dirB.20181115-134000.UTC.anon.ipv6.pcap
+12 6
+121 17
+10 58
+
+File: ../caida/equinix-nyc.dirB.20181115-134100.UTC.anon.ipv6.pcap
+22 6
+104 17
+4 58
+
+File: ../caida/equinix-nyc.dirB.20181115-134200.UTC.anon.ipv6.pcap
+14 6
+126 17
+
+File: ../caida/equinix-nyc.dirB.20181115-134300.UTC.anon.ipv6.pcap
+29 6
+103 17
+
+File: ../caida/equinix-nyc.dirB.20181115-134400.UTC.anon.ipv6.pcap
+24 6
+117 17
+
+File: ../caida/equinix-nyc.dirB.20181115-134500.UTC.anon.ipv6.pcap
+40 6
+116 17
+
+File: ../caida/equinix-nyc.dirB.20181115-134600.UTC.anon.ipv6.pcap
+9 6
+104 17
+
+File: ../caida/equinix-nyc.dirB.20181115-134700.UTC.anon.ipv6.pcap
+10 6
+118 17
+
+File: ../caida/equinix-nyc.dirB.20181115-134800.UTC.anon.ipv6.pcap
+10 6
+96 17
+
+File: ../caida/equinix-nyc.dirB.20181115-134900.UTC.anon.ipv6.pcap
+4 6
+94 17
+
+File: ../caida/equinix-nyc.dirB.20181115-135000.UTC.anon.ipv6.pcap
+4 6
+81 17
+
+File: ../caida/equinix-nyc.dirB.20181115-135100.UTC.anon.ipv6.pcap
+11 6
+116 17
+2 58
+

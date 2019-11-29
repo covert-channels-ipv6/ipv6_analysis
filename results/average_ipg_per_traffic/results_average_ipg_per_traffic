@@ -1,0 +1,826 @@
+File: ../caida/equinix-nyc.dirA.20181115-125910.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.002583000
+Time since first frame: 49.533194000
+Number of Packets: 340975
+Average IPG: 0.000145270
+
+File: ../caida/equinix-nyc.dirA.20181115-130000.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.002373000
+Time since first frame: 59.999669000
+Number of Packets: 396702
+Average IPG: 0.000151247
+
+File: ../caida/equinix-nyc.dirA.20181115-130100.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.433589000
+Time since first frame: 59.999872000
+Number of Packets: 409450
+Average IPG: 0.000146538
+
+File: ../caida/equinix-nyc.dirA.20181115-130200.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.003245000
+Time since first frame: 59.999944000
+Number of Packets: 426024
+Average IPG: 0.000140837
+
+File: ../caida/equinix-nyc.dirA.20181115-130300.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.330098000
+Time since first frame: 59.999738000
+Number of Packets: 429183
+Average IPG: 0.000139800
+
+File: ../caida/equinix-nyc.dirA.20181115-130400.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.901399000
+Time since first frame: 59.999658000
+Number of Packets: 407569
+Average IPG: 0.000147214
+
+File: ../caida/equinix-nyc.dirA.20181115-130500.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.002331000
+Time since first frame: 59.999710000
+Number of Packets: 417524
+Average IPG: 0.000143704
+
+File: ../caida/equinix-nyc.dirA.20181115-130600.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.003309000
+Time since first frame: 59.999094000
+Number of Packets: 418180
+Average IPG: 0.000143477
+
+File: ../caida/equinix-nyc.dirA.20181115-130700.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.002434000
+Time since first frame: 59.999650000
+Number of Packets: 435220
+Average IPG: 0.000137861
+
+File: ../caida/equinix-nyc.dirA.20181115-130800.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.002138000
+Time since first frame: 59.999695000
+Number of Packets: 409839
+Average IPG: 0.000146399
+
+File: ../caida/equinix-nyc.dirA.20181115-130900.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.418073000
+Time since first frame: 59.999706000
+Number of Packets: 397198
+Average IPG: 0.000151058
+
+File: ../caida/equinix-nyc.dirA.20181115-131000.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.070165000
+Time since first frame: 59.999847000
+Number of Packets: 411771
+Average IPG: 0.000145712
+
+File: ../caida/equinix-nyc.dirA.20181115-131100.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.773626000
+Time since first frame: 59.999683000
+Number of Packets: 408089
+Average IPG: 0.000147026
+
+File: ../caida/equinix-nyc.dirA.20181115-131200.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.002081000
+Time since first frame: 59.999939000
+Number of Packets: 399730
+Average IPG: 0.000150102
+
+File: ../caida/equinix-nyc.dirA.20181115-131300.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.002250000
+Time since first frame: 59.999476000
+Number of Packets: 416984
+Average IPG: 0.000143890
+
+File: ../caida/equinix-nyc.dirA.20181115-131400.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.560478000
+Time since first frame: 59.999792000
+Number of Packets: 400509
+Average IPG: 0.000149809
+
+File: ../caida/equinix-nyc.dirA.20181115-131500.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.028473000
+Time since first frame: 59.998949000
+Number of Packets: 419397
+Average IPG: 0.000143060
+
+File: ../caida/equinix-nyc.dirA.20181115-131600.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.792381000
+Time since first frame: 59.999687000
+Number of Packets: 417083
+Average IPG: 0.000143856
+
+File: ../caida/equinix-nyc.dirA.20181115-131700.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.428718000
+Time since first frame: 59.998580000
+Number of Packets: 425414
+Average IPG: 0.000141036
+
+File: ../caida/equinix-nyc.dirA.20181115-131800.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.168439000
+Time since first frame: 59.999915000
+Number of Packets: 411501
+Average IPG: 0.000145808
+
+File: ../caida/equinix-nyc.dirA.20181115-131900.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.968900000
+Time since first frame: 59.999682000
+Number of Packets: 415789
+Average IPG: 0.000144304
+
+File: ../caida/equinix-nyc.dirA.20181115-132000.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.152096000
+Time since first frame: 59.999819000
+Number of Packets: 414872
+Average IPG: 0.000144623
+
+File: ../caida/equinix-nyc.dirA.20181115-132100.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.725678000
+Time since first frame: 59.999742000
+Number of Packets: 416959
+Average IPG: 0.000143899
+
+File: ../caida/equinix-nyc.dirA.20181115-132200.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.431902000
+Time since first frame: 59.999702000
+Number of Packets: 420139
+Average IPG: 0.000142810
+
+File: ../caida/equinix-nyc.dirA.20181115-132300.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.892927000
+Time since first frame: 59.999430000
+Number of Packets: 402138
+Average IPG: 0.000149201
+
+File: ../caida/equinix-nyc.dirA.20181115-132358.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.001554000
+Time since first frame: 1.137438000
+Number of Packets: 6797
+Average IPG: 0.000167369
+
+File: ../caida/equinix-nyc.dirA.20181115-132400.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.964906000
+Time since first frame: 59.999714000
+Number of Packets: 404835
+Average IPG: 0.000148208
+
+File: ../caida/equinix-nyc.dirA.20181115-132500.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 1.241419000
+Time since first frame: 59.999460000
+Number of Packets: 420516
+Average IPG: 0.000142681
+
+File: ../caida/equinix-nyc.dirA.20181115-132600.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.386021000
+Time since first frame: 59.999425000
+Number of Packets: 430564
+Average IPG: 0.000139351
+
+File: ../caida/equinix-nyc.dirA.20181115-132700.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.705518000
+Time since first frame: 59.999894000
+Number of Packets: 397719
+Average IPG: 0.000150860
+
+File: ../caida/equinix-nyc.dirA.20181115-132800.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.663434000
+Time since first frame: 59.999926000
+Number of Packets: 417531
+Average IPG: 0.000143702
+
+File: ../caida/equinix-nyc.dirA.20181115-132900.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.129133000
+Time since first frame: 59.999864000
+Number of Packets: 425818
+Average IPG: 0.000140905
+
+File: ../caida/equinix-nyc.dirA.20181115-133000.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.776864000
+Time since first frame: 59.999772000
+Number of Packets: 436144
+Average IPG: 0.000137569
+
+File: ../caida/equinix-nyc.dirA.20181115-133100.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.964299000
+Time since first frame: 59.999808000
+Number of Packets: 426569
+Average IPG: 0.000140657
+
+File: ../caida/equinix-nyc.dirA.20181115-133200.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.551882000
+Time since first frame: 59.999738000
+Number of Packets: 441078
+Average IPG: 0.000136030
+
+File: ../caida/equinix-nyc.dirA.20181115-133300.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.002316000
+Time since first frame: 59.999855000
+Number of Packets: 464196
+Average IPG: 0.000129256
+
+File: ../caida/equinix-nyc.dirA.20181115-133400.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.759684000
+Time since first frame: 59.999523000
+Number of Packets: 490681
+Average IPG: 0.000122278
+
+File: ../caida/equinix-nyc.dirA.20181115-133500.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.301585000
+Time since first frame: 59.999803000
+Number of Packets: 428826
+Average IPG: 0.000139917
+
+File: ../caida/equinix-nyc.dirA.20181115-133600.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.002242000
+Time since first frame: 59.999678000
+Number of Packets: 461957
+Average IPG: 0.000129882
+
+File: ../caida/equinix-nyc.dirA.20181115-133700.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.861911000
+Time since first frame: 59.999331000
+Number of Packets: 491425
+Average IPG: 0.000122093
+
+File: ../caida/equinix-nyc.dirA.20181115-133800.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.358552000
+Time since first frame: 59.998937000
+Number of Packets: 472037
+Average IPG: 0.000127107
+
+File: ../caida/equinix-nyc.dirA.20181115-133900.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.002154000
+Time since first frame: 59.999542000
+Number of Packets: 465927
+Average IPG: 0.000128775
+
+File: ../caida/equinix-nyc.dirA.20181115-134000.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 1.118086000
+Time since first frame: 59.999634000
+Number of Packets: 451208
+Average IPG: 0.000132976
+
+File: ../caida/equinix-nyc.dirA.20181115-134100.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.002479000
+Time since first frame: 59.999817000
+Number of Packets: 473274
+Average IPG: 0.000126776
+
+File: ../caida/equinix-nyc.dirA.20181115-134200.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.002197000
+Time since first frame: 59.999858000
+Number of Packets: 446518
+Average IPG: 0.000134373
+
+File: ../caida/equinix-nyc.dirA.20181115-134300.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.002371000
+Time since first frame: 59.999861000
+Number of Packets: 440256
+Average IPG: 0.000136284
+
+File: ../caida/equinix-nyc.dirA.20181115-134400.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.002739000
+Time since first frame: 59.999781000
+Number of Packets: 433218
+Average IPG: 0.000138498
+
+File: ../caida/equinix-nyc.dirA.20181115-134500.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.002139000
+Time since first frame: 59.999888000
+Number of Packets: 449803
+Average IPG: 0.000133392
+
+File: ../caida/equinix-nyc.dirA.20181115-134600.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.002413000
+Time since first frame: 59.999670000
+Number of Packets: 446269
+Average IPG: 0.000134448
+
+File: ../caida/equinix-nyc.dirA.20181115-134700.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.002329000
+Time since first frame: 59.999806000
+Number of Packets: 424016
+Average IPG: 0.000141504
+
+File: ../caida/equinix-nyc.dirA.20181115-134800.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.292899000
+Time since first frame: 59.999716000
+Number of Packets: 451772
+Average IPG: 0.000132810
+
+File: ../caida/equinix-nyc.dirA.20181115-134900.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.002493000
+Time since first frame: 59.999168000
+Number of Packets: 435894
+Average IPG: 0.000137647
+
+File: ../caida/equinix-nyc.dirA.20181115-135000.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 1.034646000
+Time since first frame: 59.999929000
+Number of Packets: 451593
+Average IPG: 0.000132863
+
+File: ../caida/equinix-nyc.dirA.20181115-135100.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.002206000
+Time since first frame: 59.999812000
+Number of Packets: 462467
+Average IPG: 0.000129739
+
+File: ../caida/equinix-nyc.dirA.20181115-135200.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 1.641968000
+Time since first frame: 59.999940000
+Number of Packets: 429656
+Average IPG: 0.000139647
+
+File: ../caida/equinix-nyc.dirA.20181115-135300.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.375215000
+Time since first frame: 59.999723000
+Number of Packets: 456955
+Average IPG: 0.000131304
+
+File: ../caida/equinix-nyc.dirA.20181115-135400.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 1.582144000
+Time since first frame: 59.999792000
+Number of Packets: 562301
+Average IPG: 0.000106704
+
+File: ../caida/equinix-nyc.dirA.20181115-135500.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.002302000
+Time since first frame: 59.999556000
+Number of Packets: 438765
+Average IPG: 0.000136747
+
+File: ../caida/equinix-nyc.dirA.20181115-135600.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.007824000
+Time since first frame: 59.999802000
+Number of Packets: 446421
+Average IPG: 0.000134402
+
+File: ../caida/equinix-nyc.dirA.20181115-135700.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.785490000
+Time since first frame: 59.999944000
+Number of Packets: 421916
+Average IPG: 0.000142209
+
+File: ../caida/equinix-nyc.dirA.20181115-135800.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 1.342732000
+Time since first frame: 59.999218000
+Number of Packets: 439629
+Average IPG: 0.000136477
+
+File: ../caida/equinix-nyc.dirA.20181115-135900.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 1.370510000
+Time since first frame: 59.999924000
+Number of Packets: 463170
+Average IPG: 0.000129542
+
+File: ../caida/equinix-nyc.dirA.20181115-140000.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.040715000
+Time since first frame: 59.999761000
+Number of Packets: 498309
+Average IPG: 0.000120407
+
+File: ../caida/equinix-nyc.dirA.20181115-140100.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.001955000
+Time since first frame: 10.458550000
+Number of Packets: 83716
+Average IPG: 0.000124930
+
+File: ../caida/equinix-nyc.dirB.20181115-125910.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.000258000
+Time since first frame: 49.533959000
+Number of Packets: 3862649
+Average IPG: 0.000012824
+
+File: ../caida/equinix-nyc.dirB.20181115-130000.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.000250000
+Time since first frame: 59.999986999
+Number of Packets: 4721452
+Average IPG: 0.000012708
+
+File: ../caida/equinix-nyc.dirB.20181115-130100.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.433038000
+Time since first frame: 59.999966999
+Number of Packets: 4570339
+Average IPG: 0.000013128
+
+File: ../caida/equinix-nyc.dirB.20181115-130200.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.000248000
+Time since first frame: 59.999952999
+Number of Packets: 4930175
+Average IPG: 0.000012170
+
+File: ../caida/equinix-nyc.dirB.20181115-130300.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.330007000
+Time since first frame: 59.999982999
+Number of Packets: 4799655
+Average IPG: 0.000012501
+
+File: ../caida/equinix-nyc.dirB.20181115-130400.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.901361000
+Time since first frame: 59.999969999
+Number of Packets: 4691994
+Average IPG: 0.000012788
+
+File: ../caida/equinix-nyc.dirB.20181115-130500.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.000240000
+Time since first frame: 59.999970999
+Number of Packets: 4678685
+Average IPG: 0.000012824
+
+File: ../caida/equinix-nyc.dirB.20181115-130600.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.000223000
+Time since first frame: 59.999990999
+Number of Packets: 4681453
+Average IPG: 0.000012817
+
+File: ../caida/equinix-nyc.dirB.20181115-130700.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.000256000
+Time since first frame: 59.999979999
+Number of Packets: 4785267
+Average IPG: 0.000012538
+
+File: ../caida/equinix-nyc.dirB.20181115-130800.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.000234000
+Time since first frame: 59.999986999
+Number of Packets: 4878893
+Average IPG: 0.000012298
+
+File: ../caida/equinix-nyc.dirB.20181115-130900.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.417695000
+Time since first frame: 59.999993999
+Number of Packets: 4786404
+Average IPG: 0.000012536
+
+File: ../caida/equinix-nyc.dirB.20181115-131000.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.070147000
+Time since first frame: 59.999940999
+Number of Packets: 4785935
+Average IPG: 0.000012537
+
+File: ../caida/equinix-nyc.dirB.20181115-131100.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.773541000
+Time since first frame: 59.999994999
+Number of Packets: 4734998
+Average IPG: 0.000012672
+
+File: ../caida/equinix-nyc.dirB.20181115-131200.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.000221000
+Time since first frame: 59.999947999
+Number of Packets: 4771846
+Average IPG: 0.000012574
+
+File: ../caida/equinix-nyc.dirB.20181115-131300.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.000260000
+Time since first frame: 59.999988999
+Number of Packets: 4758321
+Average IPG: 0.000012609
+
+File: ../caida/equinix-nyc.dirB.20181115-131400.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.559864000
+Time since first frame: 59.999984999
+Number of Packets: 4926841
+Average IPG: 0.000012178
+
+File: ../caida/equinix-nyc.dirB.20181115-131500.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.028305000
+Time since first frame: 59.999986999
+Number of Packets: 5029076
+Average IPG: 0.000011931
+
+File: ../caida/equinix-nyc.dirB.20181115-131600.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.790985000
+Time since first frame: 59.999985999
+Number of Packets: 4916850
+Average IPG: 0.000012203
+
+File: ../caida/equinix-nyc.dirB.20181115-131700.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.428327000
+Time since first frame: 59.999980999
+Number of Packets: 4834862
+Average IPG: 0.000012410
+
+File: ../caida/equinix-nyc.dirB.20181115-131800.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.168204000
+Time since first frame: 59.999963999
+Number of Packets: 4909648
+Average IPG: 0.000012221
+
+File: ../caida/equinix-nyc.dirB.20181115-131900.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.968789000
+Time since first frame: 59.999971999
+Number of Packets: 4847682
+Average IPG: 0.000012377
+
+File: ../caida/equinix-nyc.dirB.20181115-131947.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.000219000
+Time since first frame: 12.088571000
+Number of Packets: 984353
+Average IPG: 0.000012281
+
+File: ../caida/equinix-nyc.dirB.20181115-132000.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.152102000
+Time since first frame: 59.999972999
+Number of Packets: 4975628
+Average IPG: 0.000012059
+
+File: ../caida/equinix-nyc.dirB.20181115-132100.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.725493000
+Time since first frame: 59.999976999
+Number of Packets: 4939389
+Average IPG: 0.000012147
+
+File: ../caida/equinix-nyc.dirB.20181115-132200.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.431404000
+Time since first frame: 59.999964999
+Number of Packets: 4929979
+Average IPG: 0.000012170
+
+File: ../caida/equinix-nyc.dirB.20181115-132300.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.892667000
+Time since first frame: 59.999954999
+Number of Packets: 4978825
+Average IPG: 0.000012051
+
+File: ../caida/equinix-nyc.dirB.20181115-132400.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.964685000
+Time since first frame: 59.999943999
+Number of Packets: 4886255
+Average IPG: 0.000012279
+
+File: ../caida/equinix-nyc.dirB.20181115-132500.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 1.241222000
+Time since first frame: 59.999953999
+Number of Packets: 4817217
+Average IPG: 0.000012455
+
+File: ../caida/equinix-nyc.dirB.20181115-132600.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.385736000
+Time since first frame: 59.999965999
+Number of Packets: 4940380
+Average IPG: 0.000012145
+
+File: ../caida/equinix-nyc.dirB.20181115-132700.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.705150000
+Time since first frame: 59.999990999
+Number of Packets: 4845738
+Average IPG: 0.000012382
+
+File: ../caida/equinix-nyc.dirB.20181115-132800.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.663391000
+Time since first frame: 59.999994999
+Number of Packets: 4897025
+Average IPG: 0.000012252
+
+File: ../caida/equinix-nyc.dirB.20181115-132900.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.128930000
+Time since first frame: 59.999983999
+Number of Packets: 5069906
+Average IPG: 0.000011835
+
+File: ../caida/equinix-nyc.dirB.20181115-133000.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.776766000
+Time since first frame: 59.999982999
+Number of Packets: 5258636
+Average IPG: 0.000011410
+
+File: ../caida/equinix-nyc.dirB.20181115-133100.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.963889000
+Time since first frame: 59.999963999
+Number of Packets: 5128044
+Average IPG: 0.000011700
+
+File: ../caida/equinix-nyc.dirB.20181115-133200.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.551846000
+Time since first frame: 59.999976999
+Number of Packets: 4983390
+Average IPG: 0.000012040
+
+File: ../caida/equinix-nyc.dirB.20181115-133300.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.000240000
+Time since first frame: 59.999978999
+Number of Packets: 5137560
+Average IPG: 0.000011679
+
+File: ../caida/equinix-nyc.dirB.20181115-133400.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.759459000
+Time since first frame: 59.999975999
+Number of Packets: 4954119
+Average IPG: 0.000012111
+
+File: ../caida/equinix-nyc.dirB.20181115-133500.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.301484000
+Time since first frame: 59.999957999
+Number of Packets: 5040921
+Average IPG: 0.000011903
+
+File: ../caida/equinix-nyc.dirB.20181115-133600.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.000244000
+Time since first frame: 59.999952999
+Number of Packets: 5026904
+Average IPG: 0.000011936
+
+File: ../caida/equinix-nyc.dirB.20181115-133700.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.861664000
+Time since first frame: 59.999974999
+Number of Packets: 4951414
+Average IPG: 0.000012118
+
+File: ../caida/equinix-nyc.dirB.20181115-133800.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.358246000
+Time since first frame: 59.999986999
+Number of Packets: 5029868
+Average IPG: 0.000011929
+
+File: ../caida/equinix-nyc.dirB.20181115-133900.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.000231000
+Time since first frame: 59.999983999
+Number of Packets: 4953766
+Average IPG: 0.000012112
+
+File: ../caida/equinix-nyc.dirB.20181115-134000.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 1.117879000
+Time since first frame: 59.999959999
+Number of Packets: 4784318
+Average IPG: 0.000012541
+
+File: ../caida/equinix-nyc.dirB.20181115-134100.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.000243000
+Time since first frame: 59.999978999
+Number of Packets: 4982328
+Average IPG: 0.000012043
+
+File: ../caida/equinix-nyc.dirB.20181115-134200.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.000229000
+Time since first frame: 59.999972999
+Number of Packets: 5157346
+Average IPG: 0.000011634
+
+File: ../caida/equinix-nyc.dirB.20181115-134300.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.000219000
+Time since first frame: 59.999980999
+Number of Packets: 5123527
+Average IPG: 0.000011711
+
+File: ../caida/equinix-nyc.dirB.20181115-134400.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.000257000
+Time since first frame: 59.999988999
+Number of Packets: 5097827
+Average IPG: 0.000011770
+
+File: ../caida/equinix-nyc.dirB.20181115-134500.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.000244000
+Time since first frame: 59.999989999
+Number of Packets: 5182978
+Average IPG: 0.000011576
+
+File: ../caida/equinix-nyc.dirB.20181115-134600.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.000268000
+Time since first frame: 59.999964999
+Number of Packets: 5302944
+Average IPG: 0.000011314
+
+File: ../caida/equinix-nyc.dirB.20181115-134700.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.000236000
+Time since first frame: 59.999959999
+Number of Packets: 5398268
+Average IPG: 0.000011115
+
+File: ../caida/equinix-nyc.dirB.20181115-134800.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.292711000
+Time since first frame: 59.999971999
+Number of Packets: 5374020
+Average IPG: 0.000011165
+
+File: ../caida/equinix-nyc.dirB.20181115-134900.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.000203000
+Time since first frame: 59.999924999
+Number of Packets: 5328782
+Average IPG: 0.000011260
+
+File: ../caida/equinix-nyc.dirB.20181115-135000.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 1.034396000
+Time since first frame: 59.999973999
+Number of Packets: 5406214
+Average IPG: 0.000011098
+
+File: ../caida/equinix-nyc.dirB.20181115-135100.UTC.anon.ipv6.pcap
+Minimal IPG: 0.000000000
+Maximimal IPG: 0.000200000
+Time since first frame: 59.999923999
+Number of Packets: 5225090
+Average IPG: 0.000011483
+

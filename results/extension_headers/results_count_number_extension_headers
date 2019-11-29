@@ -1,0 +1,529 @@
+Explanation:
+Typ 0:  Hop-by-Hop Header ID
+Typ 43: Routing Header ID
+Typ 44: Fragment Header ID
+Typ 60: Destination Header ID
+Typ 51: Authentication Header ID
+Typ 50: Encapsulation Header ID
+Output: Number of found Extension Header | ID of Extension Headers
+
+File: ../caida/equinix-nyc.dirA.20181115-125910.UTC.anon.ipv6.pcap
+Analyzed Packets: 340975
+421 44 (.1200%)
+
+File: ../caida/equinix-nyc.dirA.20181115-130000.UTC.anon.ipv6.pcap
+Analyzed Packets: 396702
+536 44 (.1300%)
+
+File: ../caida/equinix-nyc.dirA.20181115-130100.UTC.anon.ipv6.pcap
+Analyzed Packets: 409450
+552 44 (.1300%)
+
+File: ../caida/equinix-nyc.dirA.20181115-130200.UTC.anon.ipv6.pcap
+Analyzed Packets: 426024
+578 44 (.1300%)
+
+File: ../caida/equinix-nyc.dirA.20181115-130300.UTC.anon.ipv6.pcap
+Analyzed Packets: 429183
+508 44 (.1100%)
+
+File: ../caida/equinix-nyc.dirA.20181115-130400.UTC.anon.ipv6.pcap
+Analyzed Packets: 407569
+532 44 (.1300%)
+
+File: ../caida/equinix-nyc.dirA.20181115-130500.UTC.anon.ipv6.pcap
+Analyzed Packets: 417524
+607 44 (.1400%)
+
+File: ../caida/equinix-nyc.dirA.20181115-130600.UTC.anon.ipv6.pcap
+Analyzed Packets: 418180
+717 44 (.1700%)
+
+File: ../caida/equinix-nyc.dirA.20181115-130700.UTC.anon.ipv6.pcap
+Analyzed Packets: 435220
+645 44 (.1400%)
+
+File: ../caida/equinix-nyc.dirA.20181115-130800.UTC.anon.ipv6.pcap
+Analyzed Packets: 409839
+490 44 (.1100%)
+
+File: ../caida/equinix-nyc.dirA.20181115-130900.UTC.anon.ipv6.pcap
+Analyzed Packets: 397198
+531 44 (.1300%)
+
+File: ../caida/equinix-nyc.dirA.20181115-131000.UTC.anon.ipv6.pcap
+Analyzed Packets: 411771
+515 44 (.1200%)
+
+File: ../caida/equinix-nyc.dirA.20181115-131100.UTC.anon.ipv6.pcap
+Analyzed Packets: 408089
+557 44 (.1300%)
+
+File: ../caida/equinix-nyc.dirA.20181115-131200.UTC.anon.ipv6.pcap
+Analyzed Packets: 399730
+646 44 (.1600%)
+
+File: ../caida/equinix-nyc.dirA.20181115-131300.UTC.anon.ipv6.pcap
+Analyzed Packets: 416984
+660 44 (.1500%)
+
+File: ../caida/equinix-nyc.dirA.20181115-131400.UTC.anon.ipv6.pcap
+Analyzed Packets: 400509
+546 44 (.1300%)
+
+File: ../caida/equinix-nyc.dirA.20181115-131500.UTC.anon.ipv6.pcap
+Analyzed Packets: 419397
+482 44 (.1100%)
+
+File: ../caida/equinix-nyc.dirA.20181115-131600.UTC.anon.ipv6.pcap
+Analyzed Packets: 417083
+470 44 (.1100%)
+
+File: ../caida/equinix-nyc.dirA.20181115-131700.UTC.anon.ipv6.pcap
+Analyzed Packets: 425414
+560 44 (.1300%)
+
+File: ../caida/equinix-nyc.dirA.20181115-131800.UTC.anon.ipv6.pcap
+Analyzed Packets: 411501
+575 44 (.1300%)
+
+File: ../caida/equinix-nyc.dirA.20181115-131900.UTC.anon.ipv6.pcap
+Analyzed Packets: 415789
+654 44 (.1500%)
+
+File: ../caida/equinix-nyc.dirA.20181115-132000.UTC.anon.ipv6.pcap
+Analyzed Packets: 414872
+668 44 (.1600%)
+
+File: ../caida/equinix-nyc.dirA.20181115-132100.UTC.anon.ipv6.pcap
+Analyzed Packets: 416959
+640 44 (.1500%)
+
+File: ../caida/equinix-nyc.dirA.20181115-132200.UTC.anon.ipv6.pcap
+Analyzed Packets: 420139
+577 44 (.1300%)
+
+File: ../caida/equinix-nyc.dirA.20181115-132300.UTC.anon.ipv6.pcap
+Analyzed Packets: 402138
+515 44 (.1200%)
+
+File: ../caida/equinix-nyc.dirA.20181115-132358.UTC.anon.ipv6.pcap
+Analyzed Packets: 6797
+6 44 (.0800%)
+
+File: ../caida/equinix-nyc.dirA.20181115-132400.UTC.anon.ipv6.pcap
+Analyzed Packets: 404835
+555 44 (.1300%)
+
+File: ../caida/equinix-nyc.dirA.20181115-132500.UTC.anon.ipv6.pcap
+Analyzed Packets: 420516
+587 44 (.1300%)
+
+File: ../caida/equinix-nyc.dirA.20181115-132600.UTC.anon.ipv6.pcap
+Analyzed Packets: 430564
+705 44 (.1600%)
+
+File: ../caida/equinix-nyc.dirA.20181115-132700.UTC.anon.ipv6.pcap
+Analyzed Packets: 397719
+599 44 (.1500%)
+
+File: ../caida/equinix-nyc.dirA.20181115-132800.UTC.anon.ipv6.pcap
+Analyzed Packets: 417531
+708 44 (.1600%)
+
+File: ../caida/equinix-nyc.dirA.20181115-132900.UTC.anon.ipv6.pcap
+Analyzed Packets: 425818
+603 44 (.1400%)
+
+File: ../caida/equinix-nyc.dirA.20181115-133000.UTC.anon.ipv6.pcap
+Analyzed Packets: 436144
+702 44 (.1600%)
+
+File: ../caida/equinix-nyc.dirA.20181115-133100.UTC.anon.ipv6.pcap
+Analyzed Packets: 426569
+543 44 (.1200%)
+
+File: ../caida/equinix-nyc.dirA.20181115-133200.UTC.anon.ipv6.pcap
+Analyzed Packets: 441078
+729 44 (.1600%)
+
+File: ../caida/equinix-nyc.dirA.20181115-133300.UTC.anon.ipv6.pcap
+Analyzed Packets: 464196
+549 44 (.1100%)
+
+File: ../caida/equinix-nyc.dirA.20181115-133400.UTC.anon.ipv6.pcap
+Analyzed Packets: 490681
+513 44 (.1000%)
+
+File: ../caida/equinix-nyc.dirA.20181115-133500.UTC.anon.ipv6.pcap
+Analyzed Packets: 428826
+600 44 (.1300%)
+14 50 (0%)
+
+File: ../caida/equinix-nyc.dirA.20181115-133600.UTC.anon.ipv6.pcap
+Analyzed Packets: 461957
+635 44 (.1300%)
+2 50 (0%)
+
+File: ../caida/equinix-nyc.dirA.20181115-133700.UTC.anon.ipv6.pcap
+Analyzed Packets: 491425
+591 44 (.1200%)
+3 50 (0%)
+
+File: ../caida/equinix-nyc.dirA.20181115-133800.UTC.anon.ipv6.pcap
+Analyzed Packets: 472037
+669 44 (.1400%)
+1 50 (0%)
+
+File: ../caida/equinix-nyc.dirA.20181115-133900.UTC.anon.ipv6.pcap
+Analyzed Packets: 465927
+745 44 (.1500%)
+
+File: ../caida/equinix-nyc.dirA.20181115-134000.UTC.anon.ipv6.pcap
+Analyzed Packets: 451208
+507 44 (.1100%)
+
+File: ../caida/equinix-nyc.dirA.20181115-134100.UTC.anon.ipv6.pcap
+Analyzed Packets: 473274
+602 44 (.1200%)
+
+File: ../caida/equinix-nyc.dirA.20181115-134200.UTC.anon.ipv6.pcap
+Analyzed Packets: 446518
+634 44 (.1400%)
+
+File: ../caida/equinix-nyc.dirA.20181115-134300.UTC.anon.ipv6.pcap
+Analyzed Packets: 440256
+577 44 (.1300%)
+
+File: ../caida/equinix-nyc.dirA.20181115-134400.UTC.anon.ipv6.pcap
+Analyzed Packets: 433218
+616 44 (.1400%)
+
+File: ../caida/equinix-nyc.dirA.20181115-134500.UTC.anon.ipv6.pcap
+Analyzed Packets: 449803
+686 44 (.1500%)
+
+File: ../caida/equinix-nyc.dirA.20181115-134600.UTC.anon.ipv6.pcap
+Analyzed Packets: 446269
+590 44 (.1300%)
+
+File: ../caida/equinix-nyc.dirA.20181115-134700.UTC.anon.ipv6.pcap
+Analyzed Packets: 424016
+608 44 (.1400%)
+
+File: ../caida/equinix-nyc.dirA.20181115-134800.UTC.anon.ipv6.pcap
+Analyzed Packets: 451772
+786 44 (.1700%)
+
+File: ../caida/equinix-nyc.dirA.20181115-134900.UTC.anon.ipv6.pcap
+Analyzed Packets: 435894
+637 44 (.1400%)
+
+File: ../caida/equinix-nyc.dirA.20181115-135000.UTC.anon.ipv6.pcap
+Analyzed Packets: 451593
+739 44 (.1600%)
+
+File: ../caida/equinix-nyc.dirA.20181115-135100.UTC.anon.ipv6.pcap
+Analyzed Packets: 462467
+754 44 (.1600%)
+
+File: ../caida/equinix-nyc.dirA.20181115-135200.UTC.anon.ipv6.pcap
+Analyzed Packets: 429656
+749 44 (.1700%)
+
+File: ../caida/equinix-nyc.dirA.20181115-135300.UTC.anon.ipv6.pcap
+Analyzed Packets: 456955
+698 44 (.1500%)
+
+File: ../caida/equinix-nyc.dirA.20181115-135400.UTC.anon.ipv6.pcap
+Analyzed Packets: 562301
+611 44 (.1000%)
+
+File: ../caida/equinix-nyc.dirA.20181115-135500.UTC.anon.ipv6.pcap
+Analyzed Packets: 438765
+718 44 (.1600%)
+
+File: ../caida/equinix-nyc.dirA.20181115-135600.UTC.anon.ipv6.pcap
+Analyzed Packets: 446421
+612 44 (.1300%)
+
+File: ../caida/equinix-nyc.dirA.20181115-135700.UTC.anon.ipv6.pcap
+Analyzed Packets: 421916
+753 44 (.1700%)
+
+File: ../caida/equinix-nyc.dirA.20181115-135800.UTC.anon.ipv6.pcap
+Analyzed Packets: 439629
+555 44 (.1200%)
+
+File: ../caida/equinix-nyc.dirA.20181115-135900.UTC.anon.ipv6.pcap
+Analyzed Packets: 463170
+496 44 (.1000%)
+
+File: ../caida/equinix-nyc.dirA.20181115-140000.UTC.anon.ipv6.pcap
+Analyzed Packets: 498309
+580 44 (.1100%)
+
+File: ../caida/equinix-nyc.dirA.20181115-140100.UTC.anon.ipv6.pcap
+Analyzed Packets: 83716
+125 44 (.1400%)
+
+File: ../caida/equinix-nyc.dirB.20181115-125910.UTC.anon.ipv6.pcap
+Analyzed Packets: 3862649
+82 44 (0%)
+
+File: ../caida/equinix-nyc.dirB.20181115-130000.UTC.anon.ipv6.pcap
+Analyzed Packets: 4721452
+95 44 (0%)
+
+File: ../caida/equinix-nyc.dirB.20181115-130100.UTC.anon.ipv6.pcap
+Analyzed Packets: 4570339
+84 44 (0%)
+
+File: ../caida/equinix-nyc.dirB.20181115-130200.UTC.anon.ipv6.pcap
+Analyzed Packets: 4930175
+94 44 (0%)
+
+File: ../caida/equinix-nyc.dirB.20181115-130300.UTC.anon.ipv6.pcap
+Analyzed Packets: 4799655
+63 44 (0%)
+
+File: ../caida/equinix-nyc.dirB.20181115-130400.UTC.anon.ipv6.pcap
+Analyzed Packets: 4691994
+91 44 (0%)
+
+File: ../caida/equinix-nyc.dirB.20181115-130500.UTC.anon.ipv6.pcap
+Analyzed Packets: 4678685
+134 44 (0%)
+
+File: ../caida/equinix-nyc.dirB.20181115-130600.UTC.anon.ipv6.pcap
+Analyzed Packets: 4681453
+125 44 (0%)
+13 50 (0%)
+
+File: ../caida/equinix-nyc.dirB.20181115-130700.UTC.anon.ipv6.pcap
+Analyzed Packets: 4785267
+75 44 (0%)
+3 50 (0%)
+
+File: ../caida/equinix-nyc.dirB.20181115-130800.UTC.anon.ipv6.pcap
+Analyzed Packets: 4878893
+119 44 (0%)
+2 50 (0%)
+
+File: ../caida/equinix-nyc.dirB.20181115-130900.UTC.anon.ipv6.pcap
+Analyzed Packets: 4786404
+95 44 (0%)
+60 50 (0%)
+
+File: ../caida/equinix-nyc.dirB.20181115-131000.UTC.anon.ipv6.pcap
+Analyzed Packets: 4785935
+85 44 (0%)
+62 50 (0%)
+
+File: ../caida/equinix-nyc.dirB.20181115-131100.UTC.anon.ipv6.pcap
+Analyzed Packets: 4734998
+100 44 (0%)
+58 50 (0%)
+
+File: ../caida/equinix-nyc.dirB.20181115-131200.UTC.anon.ipv6.pcap
+Analyzed Packets: 4771846
+83 44 (0%)
+28 50 (0%)
+
+File: ../caida/equinix-nyc.dirB.20181115-131300.UTC.anon.ipv6.pcap
+Analyzed Packets: 4758321
+87 44 (0%)
+10 50 (0%)
+
+File: ../caida/equinix-nyc.dirB.20181115-131400.UTC.anon.ipv6.pcap
+Analyzed Packets: 4926841
+75 44 (0%)
+7 50 (0%)
+
+File: ../caida/equinix-nyc.dirB.20181115-131500.UTC.anon.ipv6.pcap
+Analyzed Packets: 5029076
+88 44 (0%)
+6 50 (0%)
+
+File: ../caida/equinix-nyc.dirB.20181115-131600.UTC.anon.ipv6.pcap
+Analyzed Packets: 4916850
+101 44 (0%)
+57 50 (0%)
+
+File: ../caida/equinix-nyc.dirB.20181115-131700.UTC.anon.ipv6.pcap
+Analyzed Packets: 4834862
+108 44 (0%)
+158 50 (0%)
+
+File: ../caida/equinix-nyc.dirB.20181115-131800.UTC.anon.ipv6.pcap
+Analyzed Packets: 4909648
+99 44 (0%)
+150 50 (0%)
+
+File: ../caida/equinix-nyc.dirB.20181115-131900.UTC.anon.ipv6.pcap
+Analyzed Packets: 4847682
+90 44 (0%)
+150 50 (0%)
+
+File: ../caida/equinix-nyc.dirB.20181115-131947.UTC.anon.ipv6.pcap
+Analyzed Packets: 984353
+16 44 (0%)
+30 50 (0%)
+
+File: ../caida/equinix-nyc.dirB.20181115-132000.UTC.anon.ipv6.pcap
+Analyzed Packets: 4975628
+336 44 (0%)
+141 50 (0%)
+
+File: ../caida/equinix-nyc.dirB.20181115-132100.UTC.anon.ipv6.pcap
+Analyzed Packets: 4939389
+90 44 (0%)
+140 50 (0%)
+
+File: ../caida/equinix-nyc.dirB.20181115-132200.UTC.anon.ipv6.pcap
+Analyzed Packets: 4929979
+69 44 (0%)
+61 50 (0%)
+
+File: ../caida/equinix-nyc.dirB.20181115-132300.UTC.anon.ipv6.pcap
+Analyzed Packets: 4978825
+103 44 (0%)
+291 50 (0%)
+
+File: ../caida/equinix-nyc.dirB.20181115-132400.UTC.anon.ipv6.pcap
+Analyzed Packets: 4886255
+132 44 (0%)
+304 50 (0%)
+
+File: ../caida/equinix-nyc.dirB.20181115-132500.UTC.anon.ipv6.pcap
+Analyzed Packets: 4817217
+59 44 (0%)
+
+File: ../caida/equinix-nyc.dirB.20181115-132600.UTC.anon.ipv6.pcap
+Analyzed Packets: 4940380
+95 44 (0%)
+104 50 (0%)
+
+File: ../caida/equinix-nyc.dirB.20181115-132700.UTC.anon.ipv6.pcap
+Analyzed Packets: 4845738
+74 44 (0%)
+87 50 (0%)
+
+File: ../caida/equinix-nyc.dirB.20181115-132800.UTC.anon.ipv6.pcap
+Analyzed Packets: 4897025
+72 44 (0%)
+6 50 (0%)
+
+File: ../caida/equinix-nyc.dirB.20181115-132900.UTC.anon.ipv6.pcap
+Analyzed Packets: 5069906
+73 44 (0%)
+6 50 (0%)
+
+File: ../caida/equinix-nyc.dirB.20181115-133000.UTC.anon.ipv6.pcap
+Analyzed Packets: 5258636
+85 44 (0%)
+
+File: ../caida/equinix-nyc.dirB.20181115-133100.UTC.anon.ipv6.pcap
+Analyzed Packets: 5128044
+65 44 (0%)
+3 50 (0%)
+
+File: ../caida/equinix-nyc.dirB.20181115-133200.UTC.anon.ipv6.pcap
+Analyzed Packets: 4983390
+89 44 (0%)
+
+File: ../caida/equinix-nyc.dirB.20181115-133300.UTC.anon.ipv6.pcap
+Analyzed Packets: 5137560
+121 44 (0%)
+24 50 (0%)
+
+File: ../caida/equinix-nyc.dirB.20181115-133400.UTC.anon.ipv6.pcap
+Analyzed Packets: 4954119
+107 44 (0%)
+1217 50 (.0200%)
+
+File: ../caida/equinix-nyc.dirB.20181115-133500.UTC.anon.ipv6.pcap
+Analyzed Packets: 5040921
+117 44 (0%)
+1103 50 (.0200%)
+
+File: ../caida/equinix-nyc.dirB.20181115-133600.UTC.anon.ipv6.pcap
+Analyzed Packets: 5026904
+98 44 (0%)
+1149 50 (.0200%)
+
+File: ../caida/equinix-nyc.dirB.20181115-133700.UTC.anon.ipv6.pcap
+Analyzed Packets: 4951414
+131 44 (0%)
+1219 50 (.0200%)
+
+File: ../caida/equinix-nyc.dirB.20181115-133800.UTC.anon.ipv6.pcap
+Analyzed Packets: 5029868
+113 44 (0%)
+1103 50 (.0200%)
+
+File: ../caida/equinix-nyc.dirB.20181115-133900.UTC.anon.ipv6.pcap
+Analyzed Packets: 4953766
+89 44 (0%)
+1077 50 (.0200%)
+
+File: ../caida/equinix-nyc.dirB.20181115-134000.UTC.anon.ipv6.pcap
+Analyzed Packets: 4784318
+143 44 (0%)
+982 50 (.0200%)
+
+File: ../caida/equinix-nyc.dirB.20181115-134100.UTC.anon.ipv6.pcap
+Analyzed Packets: 4982328
+130 44 (0%)
+1103 50 (.0200%)
+
+File: ../caida/equinix-nyc.dirB.20181115-134200.UTC.anon.ipv6.pcap
+Analyzed Packets: 5157346
+140 44 (0%)
+1145 50 (.0200%)
+
+File: ../caida/equinix-nyc.dirB.20181115-134300.UTC.anon.ipv6.pcap
+Analyzed Packets: 5123527
+132 44 (0%)
+1125 50 (.0200%)
+
+File: ../caida/equinix-nyc.dirB.20181115-134400.UTC.anon.ipv6.pcap
+Analyzed Packets: 5097827
+141 44 (0%)
+1187 50 (.0200%)
+
+File: ../caida/equinix-nyc.dirB.20181115-134500.UTC.anon.ipv6.pcap
+Analyzed Packets: 5182978
+156 44 (0%)
+1098 50 (.0200%)
+
+File: ../caida/equinix-nyc.dirB.20181115-134600.UTC.anon.ipv6.pcap
+Analyzed Packets: 5302944
+113 44 (0%)
+1093 50 (.0200%)
+
+File: ../caida/equinix-nyc.dirB.20181115-134700.UTC.anon.ipv6.pcap
+Analyzed Packets: 5398268
+128 44 (0%)
+1092 50 (.0200%)
+
+File: ../caida/equinix-nyc.dirB.20181115-134800.UTC.anon.ipv6.pcap
+Analyzed Packets: 5374020
+106 44 (0%)
+1094 50 (.0200%)
+
+File: ../caida/equinix-nyc.dirB.20181115-134900.UTC.anon.ipv6.pcap
+Analyzed Packets: 5328782
+98 44 (0%)
+1113 50 (.0200%)
+
+File: ../caida/equinix-nyc.dirB.20181115-135000.UTC.anon.ipv6.pcap
+Analyzed Packets: 5406214
+85 44 (0%)
+1104 50 (.0200%)
+
+File: ../caida/equinix-nyc.dirB.20181115-135100.UTC.anon.ipv6.pcap
+Analyzed Packets: 5225090
+129 44 (0%)
+1111 50 (.0200%)
+

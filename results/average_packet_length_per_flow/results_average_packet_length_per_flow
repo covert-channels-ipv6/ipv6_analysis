@@ -1,0 +1,472 @@
+File: ../caida/equinix-nyc.dirA.20181115-125910.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     51889         264,83        60            1504          1,0476        100%          2,7600        44,725       
+
+File: ../caida/equinix-nyc.dirA.20181115-130000.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     62581         265,08        60            1504          1,0431        100%          2,5500        10,210       
+
+File: ../caida/equinix-nyc.dirA.20181115-130100.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     63208         277,66        60            1504          1,0535        100%          3,8400        59,900       
+
+File: ../caida/equinix-nyc.dirA.20181115-130200.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     81414         453,98        60            1504          1,3569        100%          6,7100        29,146       
+
+File: ../caida/equinix-nyc.dirA.20181115-130300.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     84297         558,06        60            1504          1,4050        100%          6,3700        7,681        
+
+File: ../caida/equinix-nyc.dirA.20181115-130400.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     75615         534,81        60            1504          1,2603        100%          3,7200        43,917       
+
+File: ../caida/equinix-nyc.dirA.20181115-130500.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     75182         481,66        60            1504          1,2531        100%          5,4900        15,466       
+
+File: ../caida/equinix-nyc.dirA.20181115-130600.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     75966         382,46        60            1504          1,2661        100%          9,9100        58,116       
+
+File: ../caida/equinix-nyc.dirA.20181115-130700.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     83483         479,58        60            1504          1,3915        100%          6,7800        21,310       
+
+File: ../caida/equinix-nyc.dirA.20181115-130800.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     69379         296,63        60            1504          1,1564        100%          5,7100        18,927       
+
+File: ../caida/equinix-nyc.dirA.20181115-130900.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     63308         196,49        60            1504          1,0552        100%          2,7200        8,157        
+
+File: ../caida/equinix-nyc.dirA.20181115-131000.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     64546         228,38        60            1504          1,0758        100%          3,2200        32,790       
+
+File: ../caida/equinix-nyc.dirA.20181115-131100.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     65478         304,29        60            1504          1,0914        100%          4,3700        27,360       
+
+File: ../caida/equinix-nyc.dirA.20181115-131200.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     68140         336,23        60            1504          1,1357        100%          4,3100        49,215       
+
+File: ../caida/equinix-nyc.dirA.20181115-131300.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     73997         317,90        60            1504          1,2334        100%          4,4300        43,165       
+
+File: ../caida/equinix-nyc.dirA.20181115-131400.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     65395         275,83        60            1504          1,0899        100%          3,4300        3,170        
+
+File: ../caida/equinix-nyc.dirA.20181115-131500.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     71195         301,19        60            1504          1,1866        100%          3,6900        48,591       
+
+File: ../caida/equinix-nyc.dirA.20181115-131600.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     70725         351,78        60            1504          1,1788        100%          3,8200        8,785        
+
+File: ../caida/equinix-nyc.dirA.20181115-131700.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     78879         540,85        60            1504          1,3149        100%          7,9900        43,100       
+
+File: ../caida/equinix-nyc.dirA.20181115-131800.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     66777         383,77        60            1504          1,1130        100%          3,0900        2,393        
+
+File: ../caida/equinix-nyc.dirA.20181115-131900.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     77928         447,68        60            1504          1,2988        100%          3,5600        9,405        
+
+File: ../caida/equinix-nyc.dirA.20181115-132000.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     81698         525,66        60            1504          1,3616        100%          9,0000        11,185       
+
+File: ../caida/equinix-nyc.dirA.20181115-132100.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     76527         468,30        60            1504          1,2755        100%          4,7800        30,100       
+
+File: ../caida/equinix-nyc.dirA.20181115-132200.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     77970         473,26        60            1504          1,2995        100%          3,7000        6,170        
+
+File: ../caida/equinix-nyc.dirA.20181115-132300.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     74502         468,39        60            1504          1,2418        100%          8,5000        9,796        
+
+File: ../caida/equinix-nyc.dirA.20181115-132358.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     1024          548,47        60            1496          0,9019        100%          1,3600        0,000        
+
+File: ../caida/equinix-nyc.dirA.20181115-132400.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     68642         366,33        60            1504          1,1441        100%          5,1600        4,570        
+
+File: ../caida/equinix-nyc.dirA.20181115-132500.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     74896         473,42        60            1504          1,2483        100%          7,2500        27,405       
+
+File: ../caida/equinix-nyc.dirA.20181115-132600.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     74037         375,79        60            1504          1,2340        100%          6,7300        42,385       
+
+File: ../caida/equinix-nyc.dirA.20181115-132700.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     62452         275,64        60            1504          1,0409        100%          2,4400        1,856        
+
+File: ../caida/equinix-nyc.dirA.20181115-132800.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     73933         409,37        60            1504          1,2323        100%          7,6100        43,176       
+
+File: ../caida/equinix-nyc.dirA.20181115-132900.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     88446         572,84        60            1504          1,4742        100%          8,2900        50,115       
+
+File: ../caida/equinix-nyc.dirA.20181115-133000.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     91418         590,61        60            1504          1,5237        100%          7,8600        58,131       
+
+File: ../caida/equinix-nyc.dirA.20181115-133100.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     78659         489,76        60            1504          1,3111        100%          8,7000        5,145        
+
+File: ../caida/equinix-nyc.dirA.20181115-133200.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     86647         583,37        60            1504          1,4442        100%          7,3300        39,145       
+
+File: ../caida/equinix-nyc.dirA.20181115-133300.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     111293        734,50        60            1504          1,8549        100%          10,7100       31,146       
+
+File: ../caida/equinix-nyc.dirA.20181115-133400.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     113052        812,58        60            1504          1,8842        100%          10,9000       39,030       
+
+File: ../caida/equinix-nyc.dirA.20181115-133500.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     80839         589,13        60            1504          1,3474        100%          8,6600        2,020        
+
+File: ../caida/equinix-nyc.dirA.20181115-133600.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     103659        662,70        60            1504          1,7278        100%          8,9300        48,020       
+
+File: ../caida/equinix-nyc.dirA.20181115-133700.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     145868        864,61        60            1504          2,4312        100%          13,2400       23,060       
+
+File: ../caida/equinix-nyc.dirA.20181115-133800.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     128024        893,07        60            1504          2,1339        100%          15,3900       7,156        
+
+File: ../caida/equinix-nyc.dirA.20181115-133900.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     120191        774,21        60            1504          2,0033        100%          11,0000       22,061       
+
+File: ../caida/equinix-nyc.dirA.20181115-134000.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     103806        699,75        60            1504          1,7302        100%          9,6100        10,200       
+
+File: ../caida/equinix-nyc.dirA.20181115-134100.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     124029        773,79        60            1504          2,0672        100%          14,9600       15,062       
+
+File: ../caida/equinix-nyc.dirA.20181115-134200.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     95332         641,81        60            1504          1,5891        100%          10,5800       57,195       
+
+File: ../caida/equinix-nyc.dirA.20181115-134300.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     92327         662,19        60            1504          1,5388        100%          8,3600        43,365       
+
+File: ../caida/equinix-nyc.dirA.20181115-134400.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     85865         539,10        54            1504          1,4311        100%          12,0300       2,311        
+
+File: ../caida/equinix-nyc.dirA.20181115-134500.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     79356         520,95        60            1504          1,3226        100%          9,8700        44,578       
+
+File: ../caida/equinix-nyc.dirA.20181115-134600.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     84117         490,50        60            1504          1,4020        100%          13,7800       53,091       
+
+File: ../caida/equinix-nyc.dirA.20181115-134700.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     78234         549,27        60            1504          1,3040        100%          6,1200        42,475       
+
+File: ../caida/equinix-nyc.dirA.20181115-134800.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     104141        631,72        60            1504          1,7357        100%          16,0800       17,030       
+
+File: ../caida/equinix-nyc.dirA.20181115-134900.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     102207        771,81        60            1504          1,7035        100%          12,6500       48,950       
+
+File: ../caida/equinix-nyc.dirA.20181115-135000.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     100456        772,00        60            1504          1,6743        100%          23,4300       39,016       
+
+File: ../caida/equinix-nyc.dirA.20181115-135100.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     112798        726,57        60            1504          1,8800        100%          15,7200       1,610        
+
+File: ../caida/equinix-nyc.dirA.20181115-135200.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     90036         680,54        60            1504          1,5007        100%          5,3000        54,036       
+
+File: ../caida/equinix-nyc.dirA.20181115-135300.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     119626        845,51        60            1504          1,9938        100%          14,7800       36,080       
+
+File: ../caida/equinix-nyc.dirA.20181115-135400.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     220297        1141,25       60            1504          3,6719        100%          21,6800       7,226        
+
+File: ../caida/equinix-nyc.dirA.20181115-135500.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     95016         629,39        60            1504          1,5837        100%          8,5600        17,125       
+
+File: ../caida/equinix-nyc.dirA.20181115-135600.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     92522         579,14        60            1504          1,5421        100%          7,3300        41,715       
+
+File: ../caida/equinix-nyc.dirA.20181115-135700.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     83069         520,27        60            1504          1,3846        100%          4,7700        41,980       
+
+File: ../caida/equinix-nyc.dirA.20181115-135800.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     99489         721,52        60            1504          1,6582        100%          13,7000       17,185       
+
+File: ../caida/equinix-nyc.dirA.20181115-135900.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     124691        818,62        60            1504          2,0782        100%          14,8400       49,895       
+
+File: ../caida/equinix-nyc.dirA.20181115-140000.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     126205        857,82        60            1504          2,1035        100%          9,8300        4,930        
+
+File: ../caida/equinix-nyc.dirA.20181115-140100.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     20922         685,51        60            1504          2,0007        100%          8,8000        7,670        
+
+File: ../caida/equinix-nyc.dirB.20181115-125910.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     2073741       535,75        52            1504          41,8650       100%          56,6200       48,695       
+
+File: ../caida/equinix-nyc.dirB.20181115-130000.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     2569279       539,14        52            1504          42,8214       100%          65,6200       46,795       
+
+File: ../caida/equinix-nyc.dirB.20181115-130100.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     2540096       528,98        52            1504          42,3350       100%          53,8600       58,175       
+
+File: ../caida/equinix-nyc.dirB.20181115-130200.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     2589845       543,57        52            1504          43,1641       100%          58,5100       21,550       
+
+File: ../caida/equinix-nyc.dirB.20181115-130300.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     2519733       560,77        52            1504          41,9956       100%          60,7600       33,075       
+
+File: ../caida/equinix-nyc.dirB.20181115-130400.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     2454613       569,40        52            1504          40,9102       100%          54,9700       42,190       
+
+File: ../caida/equinix-nyc.dirB.20181115-130500.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     2496857       558,70        52            1504          41,6144       100%          55,8400       14,110       
+
+File: ../caida/equinix-nyc.dirB.20181115-130600.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     2549918       548,74        52            1504          42,4987       100%          61,6400       2,100        
+
+File: ../caida/equinix-nyc.dirB.20181115-130700.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     2610904       543,93        52            1504          43,5151       100%          63,0100       12,205       
+
+File: ../caida/equinix-nyc.dirB.20181115-130800.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     2674971       520,54        52            1504          44,5829       100%          57,7800       45,915       
+
+File: ../caida/equinix-nyc.dirB.20181115-130900.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     2581674       534,65        56            1504          43,0279       100%          57,5400       59,375       
+
+File: ../caida/equinix-nyc.dirB.20181115-131000.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     2597073       542,56        52            1504          43,2846       100%          64,3300       27,270       
+
+File: ../caida/equinix-nyc.dirB.20181115-131100.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     2555832       537,41        52            1504          42,5972       100%          59,9800       45,285       
+
+File: ../caida/equinix-nyc.dirB.20181115-131200.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     2563002       550,23        52            1504          42,7168       100%          58,5100       3,965        
+
+File: ../caida/equinix-nyc.dirB.20181115-131300.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     2588316       558,71        52            1504          43,1386       100%          63,2200       47,410       
+
+File: ../caida/equinix-nyc.dirB.20181115-131400.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     2639137       559,70        52            1504          43,9857       100%          62,9600       37,180       
+
+File: ../caida/equinix-nyc.dirB.20181115-131500.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     2673400       560,41        52            1504          44,5567       100%          61,1500       25,320       
+
+File: ../caida/equinix-nyc.dirB.20181115-131600.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     2681249       570,98        52            1504          44,6875       100%          62,2000       48,905       
+
+File: ../caida/equinix-nyc.dirB.20181115-131700.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     2593076       550,24        52            1504          43,2179       100%          57,4200       41,945       
+
+File: ../caida/equinix-nyc.dirB.20181115-131800.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     2626712       551,99        52            1504          43,7786       100%          54,5900       1,585        
+
+File: ../caida/equinix-nyc.dirB.20181115-131900.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     2631564       553,12        52            1504          43,8595       100%          56,1500       36,800       
+
+File: ../caida/equinix-nyc.dirB.20181115-131947.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     541043        589,45        57            1504          44,7572       100%          52,0400       9,445        
+
+File: ../caida/equinix-nyc.dirB.20181115-132000.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     2658594       593,85        52            1504          44,3100       100%          58,5400       9,445        
+
+File: ../caida/equinix-nyc.dirB.20181115-132100.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     2621960       569,57        52            1504          43,6994       100%          61,7400       25,780       
+
+File: ../caida/equinix-nyc.dirB.20181115-132200.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     2599404       547,40        52            1504          43,3235       100%          60,0500       41,160       
+
+File: ../caida/equinix-nyc.dirB.20181115-132300.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     2760309       539,07        52            1504          46,0052       100%          62,1200       23,185       
+
+File: ../caida/equinix-nyc.dirB.20181115-132400.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     2708328       549,47        52            1504          45,1389       100%          63,5000       2,095        
+
+File: ../caida/equinix-nyc.dirB.20181115-132500.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     2735798       582,65        52            1504          45,5967       100%          69,2600       12,380       
+
+File: ../caida/equinix-nyc.dirB.20181115-132600.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     2738071       565,66        52            1504          45,6345       100%          57,4100       19,585       
+
+File: ../caida/equinix-nyc.dirB.20181115-132700.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     2670639       556,06        52            1504          44,5107       100%          60,3500       10,220       
+
+File: ../caida/equinix-nyc.dirB.20181115-132800.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     2651051       543,25        52            1504          44,1842       100%          58,3800       43,890       
+
+File: ../caida/equinix-nyc.dirB.20181115-132900.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     2677255       543,99        52            1504          44,6209       100%          57,6700       33,360       
+
+File: ../caida/equinix-nyc.dirB.20181115-133000.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     2842234       570,53        52            1504          47,3706       100%          77,7500       19,270       
+
+File: ../caida/equinix-nyc.dirB.20181115-133100.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     2763723       564,68        52            1504          46,0621       100%          64,4700       33,700       
+
+File: ../caida/equinix-nyc.dirB.20181115-133200.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     2621611       541,06        52            1504          43,6936       100%          60,9100       6,170        
+
+File: ../caida/equinix-nyc.dirB.20181115-133300.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     2747227       540,65        52            1504          45,7872       100%          65,1100       42,115       
+
+File: ../caida/equinix-nyc.dirB.20181115-133400.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     2677075       551,57        52            1504          44,6180       100%          64,5800       48,380       
+
+File: ../caida/equinix-nyc.dirB.20181115-133500.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     2814571       557,32        52            1504          46,9095       100%          66,0400       33,270       
+
+File: ../caida/equinix-nyc.dirB.20181115-133600.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     2762615       551,83        52            1504          46,0437       100%          68,2500       58,240       
+
+File: ../caida/equinix-nyc.dirB.20181115-133700.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     2702148       513,05        52            1504          45,0359       100%          76,0900       50,195       
+
+File: ../caida/equinix-nyc.dirB.20181115-133800.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     2750522       523,52        52            1504          45,8420       100%          63,9800       49,150       
+
+File: ../caida/equinix-nyc.dirB.20181115-133900.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     2672325       530,82        52            1504          44,5388       100%          56,3100       30,180       
+
+File: ../caida/equinix-nyc.dirB.20181115-134000.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     2599451       527,42        52            1504          43,3242       100%          60,9700       13,760       
+
+File: ../caida/equinix-nyc.dirB.20181115-134100.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     2639900       518,49        52            1504          43,9983       100%          55,4300       42,470       
+
+File: ../caida/equinix-nyc.dirB.20181115-134200.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     2798515       545,55        52            1504          46,6419       100%          63,7500       55,775       
+
+File: ../caida/equinix-nyc.dirB.20181115-134300.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     2753385       538,75        52            1504          45,8898       100%          63,8100       31,360       
+
+File: ../caida/equinix-nyc.dirB.20181115-134400.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     2752268       549,51        52            1504          45,8711       100%          65,0500       59,740       
+
+File: ../caida/equinix-nyc.dirB.20181115-134500.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     2754870       547,71        52            1504          45,9145       100%          64,9800       0,055        
+
+File: ../caida/equinix-nyc.dirB.20181115-134600.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     2867161       553,63        52            1504          47,7861       100%          62,2700       22,050       
+
+File: ../caida/equinix-nyc.dirB.20181115-134700.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     2885548       519,90        52            1504          48,0925       100%          68,1600       12,475       
+
+File: ../caida/equinix-nyc.dirB.20181115-134800.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     2911146       543,92        52            1504          48,5191       100%          76,6500       50,225       
+
+File: ../caida/equinix-nyc.dirB.20181115-134900.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     2872711       494,24        52            1504          47,8786       100%          63,9500       30,190       
+
+File: ../caida/equinix-nyc.dirB.20181115-135000.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     2858458       499,42        52            1504          47,6410       100%          66,9600       33,730       
+
+File: ../caida/equinix-nyc.dirB.20181115-135100.UTC.anon.ipv6.pcap
+Topic / Item       Count         Average       Min val       Max val       Rate (ms)     Percent       Burst rate    Burst start
+Packet Lengths     2825583       501,95        52            1504          47,0931       100%          59,4200       56,985       
+

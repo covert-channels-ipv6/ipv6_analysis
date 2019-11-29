@@ -1,0 +1,1298 @@
+File: ../caida/equinix-nyc.dirA.20181115-125910.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 10666
+Sum Packets Left (<-): 306242
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 84042
+Average Packets Left(<-): 28.7119
+Sum Packets Right (->): 34312
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 1382
+Average Packets Right(->): 3.2169
+
+File: ../caida/equinix-nyc.dirA.20181115-130000.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 11795
+Sum Packets Left (<-): 359036
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 106142
+Average Packets Left(<-): 30.4396
+Sum Packets Right (->): 37130
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 1265
+Average Packets Right(->): 3.1479
+
+File: ../caida/equinix-nyc.dirA.20181115-130100.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 11864
+Sum Packets Left (<-): 376508
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 103855
+Average Packets Left(<-): 31.7353
+Sum Packets Right (->): 32390
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 1158
+Average Packets Right(->): 2.7301
+
+File: ../caida/equinix-nyc.dirA.20181115-130200.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 12008
+Sum Packets Left (<-): 386592
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 104235
+Average Packets Left(<-): 32.1945
+Sum Packets Right (->): 38854
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 1470
+Average Packets Right(->): 3.2356
+
+File: ../caida/equinix-nyc.dirA.20181115-130300.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 12003
+Sum Packets Left (<-): 387266
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 103951
+Average Packets Left(<-): 32.2641
+Sum Packets Right (->): 41409
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 1212
+Average Packets Right(->): 3.4498
+
+File: ../caida/equinix-nyc.dirA.20181115-130400.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 12157
+Sum Packets Left (<-): 372849
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 103402
+Average Packets Left(<-): 30.6694
+Sum Packets Right (->): 34188
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 1395
+Average Packets Right(->): 2.8122
+
+File: ../caida/equinix-nyc.dirA.20181115-130500.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 11885
+Sum Packets Left (<-): 383684
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 104032
+Average Packets Left(<-): 32.2830
+Sum Packets Right (->): 33233
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 1060
+Average Packets Right(->): 2.7962
+
+File: ../caida/equinix-nyc.dirA.20181115-130600.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 11941
+Sum Packets Left (<-): 377403
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 104197
+Average Packets Left(<-): 31.6056
+Sum Packets Right (->): 40060
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 1250
+Average Packets Right(->): 3.3548
+
+File: ../caida/equinix-nyc.dirA.20181115-130700.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 11846
+Sum Packets Left (<-): 395816
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 103935
+Average Packets Left(<-): 33.4134
+Sum Packets Right (->): 38759
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 1275
+Average Packets Right(->): 3.2719
+
+File: ../caida/equinix-nyc.dirA.20181115-130800.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 11951
+Sum Packets Left (<-): 368042
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 104247
+Average Packets Left(<-): 30.7959
+Sum Packets Right (->): 41307
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 1600
+Average Packets Right(->): 3.4563
+
+File: ../caida/equinix-nyc.dirA.20181115-130900.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 11904
+Sum Packets Left (<-): 359290
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 103600
+Average Packets Left(<-): 30.1822
+Sum Packets Right (->): 37377
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 1275
+Average Packets Right(->): 3.1398
+
+File: ../caida/equinix-nyc.dirA.20181115-131000.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 11930
+Sum Packets Left (<-): 366701
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 104120
+Average Packets Left(<-): 30.7377
+Sum Packets Right (->): 44555
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 1858
+Average Packets Right(->): 3.7347
+
+File: ../caida/equinix-nyc.dirA.20181115-131100.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 11847
+Sum Packets Left (<-): 362975
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 102753
+Average Packets Left(<-): 30.6385
+Sum Packets Right (->): 44557
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 1269
+Average Packets Right(->): 3.7610
+
+File: ../caida/equinix-nyc.dirA.20181115-131200.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 11978
+Sum Packets Left (<-): 359680
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 103993
+Average Packets Left(<-): 30.0283
+Sum Packets Right (->): 39404
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 1800
+Average Packets Right(->): 3.2896
+
+File: ../caida/equinix-nyc.dirA.20181115-131300.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 11927
+Sum Packets Left (<-): 375308
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 103599
+Average Packets Left(<-): 31.4670
+Sum Packets Right (->): 41016
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 1525
+Average Packets Right(->): 3.4389
+
+File: ../caida/equinix-nyc.dirA.20181115-131400.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 12088
+Sum Packets Left (<-): 354343
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 102630
+Average Packets Left(<-): 29.3136
+Sum Packets Right (->): 45620
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 2370
+Average Packets Right(->): 3.7739
+
+File: ../caida/equinix-nyc.dirA.20181115-131500.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 12040
+Sum Packets Left (<-): 373054
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 104943
+Average Packets Left(<-): 30.9845
+Sum Packets Right (->): 45861
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 1885
+Average Packets Right(->): 3.8090
+
+File: ../caida/equinix-nyc.dirA.20181115-131600.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 11849
+Sum Packets Left (<-): 374113
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 102468
+Average Packets Left(<-): 31.5733
+Sum Packets Right (->): 42500
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 1552
+Average Packets Right(->): 3.5868
+
+File: ../caida/equinix-nyc.dirA.20181115-131700.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 11965
+Sum Packets Left (<-): 380389
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 102238
+Average Packets Left(<-): 31.7918
+Sum Packets Right (->): 44465
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 1455
+Average Packets Right(->): 3.7162
+
+File: ../caida/equinix-nyc.dirA.20181115-131800.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 11948
+Sum Packets Left (<-): 373982
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 103728
+Average Packets Left(<-): 31.3008
+Sum Packets Right (->): 36944
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 1900
+Average Packets Right(->): 3.0920
+
+File: ../caida/equinix-nyc.dirA.20181115-131900.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 11897
+Sum Packets Left (<-): 375108
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 102258
+Average Packets Left(<-): 31.5296
+Sum Packets Right (->): 40027
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 1475
+Average Packets Right(->): 3.3644
+
+File: ../caida/equinix-nyc.dirA.20181115-132000.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 11943
+Sum Packets Left (<-): 377837
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 103870
+Average Packets Left(<-): 31.6366
+Sum Packets Right (->): 36367
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 1290
+Average Packets Right(->): 3.0450
+
+File: ../caida/equinix-nyc.dirA.20181115-132100.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 11830
+Sum Packets Left (<-): 375609
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 103585
+Average Packets Left(<-): 31.7505
+Sum Packets Right (->): 40710
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 2153
+Average Packets Right(->): 3.4412
+
+File: ../caida/equinix-nyc.dirA.20181115-132200.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 11971
+Sum Packets Left (<-): 375622
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 103520
+Average Packets Left(<-): 31.3776
+Sum Packets Right (->): 43940
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 1995
+Average Packets Right(->): 3.6705
+
+File: ../caida/equinix-nyc.dirA.20181115-132300.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 11856
+Sum Packets Left (<-): 360536
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 103009
+Average Packets Left(<-): 30.4095
+Sum Packets Right (->): 41087
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 1147
+Average Packets Right(->): 3.4655
+
+File: ../caida/equinix-nyc.dirA.20181115-132358.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 912
+Sum Packets Left (<-): 6133
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 1976
+Average Packets Left(<-): 6.7247
+Sum Packets Right (->): 658
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 171
+Average Packets Right(->): .7214
+
+File: ../caida/equinix-nyc.dirA.20181115-132400.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 12048
+Sum Packets Left (<-): 362417
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 103656
+Average Packets Left(<-): 30.0810
+Sum Packets Right (->): 41863
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 1997
+Average Packets Right(->): 3.4746
+
+File: ../caida/equinix-nyc.dirA.20181115-132500.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 11976
+Sum Packets Left (<-): 380171
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 102049
+Average Packets Left(<-): 31.7444
+Sum Packets Right (->): 39758
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 1547
+Average Packets Right(->): 3.3198
+
+File: ../caida/equinix-nyc.dirA.20181115-132600.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 12156
+Sum Packets Left (<-): 385244
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 105009
+Average Packets Left(<-): 31.6916
+Sum Packets Right (->): 44615
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 1125
+Average Packets Right(->): 3.6702
+
+File: ../caida/equinix-nyc.dirA.20181115-132700.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 11962
+Sum Packets Left (<-): 354386
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 103589
+Average Packets Left(<-): 29.6259
+Sum Packets Right (->): 42734
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 1829
+Average Packets Right(->): 3.5724
+
+File: ../caida/equinix-nyc.dirA.20181115-132800.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 12205
+Sum Packets Left (<-): 373732
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 104339
+Average Packets Left(<-): 30.6212
+Sum Packets Right (->): 43091
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 1709
+Average Packets Right(->): 3.5306
+
+File: ../caida/equinix-nyc.dirA.20181115-132900.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 12149
+Sum Packets Left (<-): 383550
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 105847
+Average Packets Left(<-): 31.5704
+Sum Packets Right (->): 41665
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 1191
+Average Packets Right(->): 3.4295
+
+File: ../caida/equinix-nyc.dirA.20181115-133000.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 12235
+Sum Packets Left (<-): 392630
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 106089
+Average Packets Left(<-): 32.0907
+Sum Packets Right (->): 42812
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 1200
+Average Packets Right(->): 3.4991
+
+File: ../caida/equinix-nyc.dirA.20181115-133100.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 12170
+Sum Packets Left (<-): 386285
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 104631
+Average Packets Left(<-): 31.7407
+Sum Packets Right (->): 39741
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 1607
+Average Packets Right(->): 3.2654
+
+File: ../caida/equinix-nyc.dirA.20181115-133200.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 12179
+Sum Packets Left (<-): 396398
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 105478
+Average Packets Left(<-): 32.5476
+Sum Packets Right (->): 43951
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 2153
+Average Packets Right(->): 3.6087
+
+File: ../caida/equinix-nyc.dirA.20181115-133300.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 12207
+Sum Packets Left (<-): 416763
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 106760
+Average Packets Left(<-): 34.1413
+Sum Packets Right (->): 46884
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 2020
+Average Packets Right(->): 3.8407
+
+File: ../caida/equinix-nyc.dirA.20181115-133400.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 11817
+Sum Packets Left (<-): 427909
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 104349
+Average Packets Left(<-): 36.2113
+Sum Packets Right (->): 62259
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 23575
+Average Packets Right(->): 5.2685
+
+File: ../caida/equinix-nyc.dirA.20181115-133500.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 11303
+Sum Packets Left (<-): 385872
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 105076
+Average Packets Left(<-): 34.1389
+Sum Packets Right (->): 42354
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 3887
+Average Packets Right(->): 3.7471
+
+File: ../caida/equinix-nyc.dirA.20181115-133600.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 11767
+Sum Packets Left (<-): 414172
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 106025
+Average Packets Left(<-): 35.1977
+Sum Packets Right (->): 47150
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 1925
+Average Packets Right(->): 4.0069
+
+File: ../caida/equinix-nyc.dirA.20181115-133700.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 12194
+Sum Packets Left (<-): 443719
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 104129
+Average Packets Left(<-): 36.3883
+Sum Packets Right (->): 47115
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 6645
+Average Packets Right(->): 3.8637
+
+File: ../caida/equinix-nyc.dirA.20181115-133800.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 12310
+Sum Packets Left (<-): 431971
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 104937
+Average Packets Left(<-): 35.0910
+Sum Packets Right (->): 39397
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 3526
+Average Packets Right(->): 3.2004
+
+File: ../caida/equinix-nyc.dirA.20181115-133900.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 12105
+Sum Packets Left (<-): 421889
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 105575
+Average Packets Left(<-): 34.8524
+Sum Packets Right (->): 43293
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 2108
+Average Packets Right(->): 3.5764
+
+File: ../caida/equinix-nyc.dirA.20181115-134000.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 12146
+Sum Packets Left (<-): 408931
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 103632
+Average Packets Left(<-): 33.6679
+Sum Packets Right (->): 41770
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 1432
+Average Packets Right(->): 3.4389
+
+File: ../caida/equinix-nyc.dirA.20181115-134100.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 12108
+Sum Packets Left (<-): 422870
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 106669
+Average Packets Left(<-): 34.9248
+Sum Packets Right (->): 49802
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 4519
+Average Packets Right(->): 4.1131
+
+File: ../caida/equinix-nyc.dirA.20181115-134200.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 12188
+Sum Packets Left (<-): 401351
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 105883
+Average Packets Left(<-): 32.9300
+Sum Packets Right (->): 44533
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 1550
+Average Packets Right(->): 3.6538
+
+File: ../caida/equinix-nyc.dirA.20181115-134300.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 12197
+Sum Packets Left (<-): 400468
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 106204
+Average Packets Left(<-): 32.8333
+Sum Packets Right (->): 39211
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 1535
+Average Packets Right(->): 3.2148
+
+File: ../caida/equinix-nyc.dirA.20181115-134400.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 12348
+Sum Packets Left (<-): 392619
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 105804
+Average Packets Left(<-): 31.7961
+Sum Packets Right (->): 39983
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 1485
+Average Packets Right(->): 3.2380
+
+File: ../caida/equinix-nyc.dirA.20181115-134500.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 12464
+Sum Packets Left (<-): 414193
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 106185
+Average Packets Left(<-): 33.2311
+Sum Packets Right (->): 34924
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 1125
+Average Packets Right(->): 2.8019
+
+File: ../caida/equinix-nyc.dirA.20181115-134600.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 12014
+Sum Packets Left (<-): 402679
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 106224
+Average Packets Left(<-): 33.5174
+Sum Packets Right (->): 43000
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 1375
+Average Packets Right(->): 3.5791
+
+File: ../caida/equinix-nyc.dirA.20181115-134700.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 11920
+Sum Packets Left (<-): 385541
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 106374
+Average Packets Left(<-): 32.3440
+Sum Packets Right (->): 37867
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 1435
+Average Packets Right(->): 3.1767
+
+File: ../caida/equinix-nyc.dirA.20181115-134800.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 12023
+Sum Packets Left (<-): 406148
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 105877
+Average Packets Left(<-): 33.7809
+Sum Packets Right (->): 44838
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 1772
+Average Packets Right(->): 3.7293
+
+File: ../caida/equinix-nyc.dirA.20181115-134900.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 12017
+Sum Packets Left (<-): 398605
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 105878
+Average Packets Left(<-): 33.1700
+Sum Packets Right (->): 36652
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 1525
+Average Packets Right(->): 3.0500
+
+File: ../caida/equinix-nyc.dirA.20181115-135000.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 12005
+Sum Packets Left (<-): 413140
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 104425
+Average Packets Left(<-): 34.4139
+Sum Packets Right (->): 37714
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 2312
+Average Packets Right(->): 3.1415
+
+File: ../caida/equinix-nyc.dirA.20181115-135100.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 12281
+Sum Packets Left (<-): 422597
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 106734
+Average Packets Left(<-): 34.4106
+Sum Packets Right (->): 39116
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 1455
+Average Packets Right(->): 3.1850
+
+File: ../caida/equinix-nyc.dirA.20181115-135200.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 11923
+Sum Packets Left (<-): 391285
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 102934
+Average Packets Left(<-): 32.8176
+Sum Packets Right (->): 37622
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 1784
+Average Packets Right(->): 3.1554
+
+File: ../caida/equinix-nyc.dirA.20181115-135300.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 11887
+Sum Packets Left (<-): 421732
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 105307
+Average Packets Left(<-): 35.4784
+Sum Packets Right (->): 34525
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 1265
+Average Packets Right(->): 2.9044
+
+File: ../caida/equinix-nyc.dirA.20181115-135400.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 11816
+Sum Packets Left (<-): 522620
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 116499
+Average Packets Left(<-): 44.2298
+Sum Packets Right (->): 39070
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 1297
+Average Packets Right(->): 3.3065
+
+File: ../caida/equinix-nyc.dirA.20181115-135500.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 11929
+Sum Packets Left (<-): 399749
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 107044
+Average Packets Left(<-): 33.5106
+Sum Packets Right (->): 38298
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 1525
+Average Packets Right(->): 3.2104
+
+File: ../caida/equinix-nyc.dirA.20181115-135600.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 12076
+Sum Packets Left (<-): 401497
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 104308
+Average Packets Left(<-): 33.2475
+Sum Packets Right (->): 44312
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 4389
+Average Packets Right(->): 3.6694
+
+File: ../caida/equinix-nyc.dirA.20181115-135700.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 11985
+Sum Packets Left (<-): 383134
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 107062
+Average Packets Left(<-): 31.9677
+Sum Packets Right (->): 38029
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 2106
+Average Packets Right(->): 3.1730
+
+File: ../caida/equinix-nyc.dirA.20181115-135800.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 11803
+Sum Packets Left (<-): 407735
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 105998
+Average Packets Left(<-): 34.5450
+Sum Packets Right (->): 31339
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 1110
+Average Packets Right(->): 2.6551
+
+File: ../caida/equinix-nyc.dirA.20181115-135900.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 12007
+Sum Packets Left (<-): 423007
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 105616
+Average Packets Left(<-): 35.2300
+Sum Packets Right (->): 39667
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 1550
+Average Packets Right(->): 3.3036
+
+File: ../caida/equinix-nyc.dirA.20181115-140000.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 12547
+Sum Packets Left (<-): 456992
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 113828
+Average Packets Left(<-): 36.4224
+Sum Packets Right (->): 40737
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 4528
+Average Packets Right(->): 3.2467
+
+File: ../caida/equinix-nyc.dirA.20181115-140100.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 6521
+Sum Packets Left (<-): 75863
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 20119
+Average Packets Left(<-): 11.6336
+Sum Packets Right (->): 7728
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 603
+Average Packets Right(->): 1.1850
+
+File: ../caida/equinix-nyc.dirB.20181115-125910.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 107257
+Sum Packets Left (<-): 916983
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 66096
+Average Packets Left(<-): 8.5494
+Sum Packets Right (->): 2945584
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 82086
+Average Packets Right(->): 27.4628
+
+File: ../caida/equinix-nyc.dirB.20181115-130000.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 119769
+Sum Packets Left (<-): 1113114
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 80730
+Average Packets Left(<-): 9.2938
+Sum Packets Right (->): 3608243
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 103723
+Average Packets Right(->): 30.1266
+
+File: ../caida/equinix-nyc.dirB.20181115-130100.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 121817
+Sum Packets Left (<-): 1106470
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 79623
+Average Packets Left(<-): 9.0830
+Sum Packets Right (->): 3463785
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 101163
+Average Packets Right(->): 28.4343
+
+File: ../caida/equinix-nyc.dirB.20181115-130200.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 126245
+Sum Packets Left (<-): 1190000
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 80868
+Average Packets Left(<-): 9.4261
+Sum Packets Right (->): 3740081
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 168788
+Average Packets Right(->): 29.6255
+
+File: ../caida/equinix-nyc.dirB.20181115-130300.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 125421
+Sum Packets Left (<-): 1168218
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 79759
+Average Packets Left(<-): 9.3143
+Sum Packets Right (->): 3631374
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 105731
+Average Packets Right(->): 28.9534
+
+File: ../caida/equinix-nyc.dirB.20181115-130400.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 122410
+Sum Packets Left (<-): 1159998
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 79530
+Average Packets Left(<-): 9.4763
+Sum Packets Right (->): 3531905
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 132174
+Average Packets Right(->): 28.8530
+
+File: ../caida/equinix-nyc.dirB.20181115-130500.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 119422
+Sum Packets Left (<-): 1121258
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 80574
+Average Packets Left(<-): 9.3890
+Sum Packets Right (->): 3557293
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 101833
+Average Packets Right(->): 29.7875
+
+File: ../caida/equinix-nyc.dirB.20181115-130600.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 116300
+Sum Packets Left (<-): 1108002
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 80587
+Average Packets Left(<-): 9.5271
+Sum Packets Right (->): 3573326
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 102262
+Average Packets Right(->): 30.7250
+
+File: ../caida/equinix-nyc.dirB.20181115-130700.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 117661
+Sum Packets Left (<-): 1090782
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 80094
+Average Packets Left(<-): 9.2705
+Sum Packets Right (->): 3694410
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 102045
+Average Packets Right(->): 31.3987
+
+File: ../caida/equinix-nyc.dirB.20181115-130800.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 121296
+Sum Packets Left (<-): 1102122
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 80100
+Average Packets Left(<-): 9.0862
+Sum Packets Right (->): 3776652
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 101962
+Average Packets Right(->): 31.1358
+
+File: ../caida/equinix-nyc.dirB.20181115-130900.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 124743
+Sum Packets Left (<-): 1097882
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 79606
+Average Packets Left(<-): 8.8011
+Sum Packets Right (->): 3688427
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 102025
+Average Packets Right(->): 29.5682
+
+File: ../caida/equinix-nyc.dirB.20181115-131000.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 124013
+Sum Packets Left (<-): 1112462
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 80562
+Average Packets Left(<-): 8.9705
+Sum Packets Right (->): 3673388
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 103532
+Average Packets Right(->): 29.6209
+
+File: ../caida/equinix-nyc.dirB.20181115-131100.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 118670
+Sum Packets Left (<-): 1123184
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 79470
+Average Packets Left(<-): 9.4647
+Sum Packets Right (->): 3611714
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 102151
+Average Packets Right(->): 30.4349
+
+File: ../caida/equinix-nyc.dirB.20181115-131200.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 118477
+Sum Packets Left (<-): 1158651
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 81076
+Average Packets Left(<-): 9.7795
+Sum Packets Right (->): 3613112
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 103164
+Average Packets Right(->): 30.4963
+
+File: ../caida/equinix-nyc.dirB.20181115-131300.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 122969
+Sum Packets Left (<-): 1169179
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 81029
+Average Packets Left(<-): 9.5079
+Sum Packets Right (->): 3589055
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 103970
+Average Packets Right(->): 29.1866
+
+File: ../caida/equinix-nyc.dirB.20181115-131400.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 122064
+Sum Packets Left (<-): 1255083
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 80281
+Average Packets Left(<-): 10.2821
+Sum Packets Right (->): 3671683
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 102319
+Average Packets Right(->): 30.0799
+
+File: ../caida/equinix-nyc.dirB.20181115-131500.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 123958
+Sum Packets Left (<-): 1273743
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 81415
+Average Packets Left(<-): 10.2756
+Sum Packets Right (->): 3755245
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 104687
+Average Packets Right(->): 30.2944
+
+File: ../caida/equinix-nyc.dirB.20181115-131600.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 125459
+Sum Packets Left (<-): 1277441
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 80291
+Average Packets Left(<-): 10.1821
+Sum Packets Right (->): 3639308
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 102500
+Average Packets Right(->): 29.0079
+
+File: ../caida/equinix-nyc.dirB.20181115-131700.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 124682
+Sum Packets Left (<-): 1212762
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 80705
+Average Packets Left(<-): 9.7268
+Sum Packets Right (->): 3621992
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 101673
+Average Packets Right(->): 29.0498
+
+File: ../caida/equinix-nyc.dirB.20181115-131800.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 120383
+Sum Packets Left (<-): 1260726
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 80758
+Average Packets Left(<-): 10.4726
+Sum Packets Right (->): 3648823
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 102874
+Average Packets Right(->): 30.3101
+
+File: ../caida/equinix-nyc.dirB.20181115-131900.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 118685
+Sum Packets Left (<-): 1262215
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 79744
+Average Packets Left(<-): 10.6350
+Sum Packets Right (->): 3585377
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 102225
+Average Packets Right(->): 30.2091
+
+File: ../caida/equinix-nyc.dirB.20181115-131947.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 50080
+Sum Packets Left (<-): 269710
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 16462
+Average Packets Left(<-): 5.3855
+Sum Packets Right (->): 714627
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 20962
+Average Packets Right(->): 14.2697
+
+File: ../caida/equinix-nyc.dirB.20181115-132000.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 120345
+Sum Packets Left (<-): 1337894
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 80435
+Average Packets Left(<-): 11.1171
+Sum Packets Right (->): 3637398
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 102894
+Average Packets Right(->): 30.2247
+
+File: ../caida/equinix-nyc.dirB.20181115-132100.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 123114
+Sum Packets Left (<-): 1261097
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 80569
+Average Packets Left(<-): 10.2433
+Sum Packets Right (->): 3678202
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 100886
+Average Packets Right(->): 29.8763
+
+File: ../caida/equinix-nyc.dirB.20181115-132200.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 125223
+Sum Packets Left (<-): 1298994
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 133086
+Average Packets Left(<-): 10.3734
+Sum Packets Right (->): 3630916
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 101721
+Average Packets Right(->): 28.9955
+
+File: ../caida/equinix-nyc.dirB.20181115-132300.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 125010
+Sum Packets Left (<-): 1212602
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 80046
+Average Packets Left(<-): 9.7000
+Sum Packets Right (->): 3766120
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 101196
+Average Packets Right(->): 30.1265
+
+File: ../caida/equinix-nyc.dirB.20181115-132400.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 123154
+Sum Packets Left (<-): 1238730
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 80118
+Average Packets Left(<-): 10.0583
+Sum Packets Right (->): 3647393
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 101329
+Average Packets Right(->): 29.6165
+
+File: ../caida/equinix-nyc.dirB.20181115-132500.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 121681
+Sum Packets Left (<-): 1262017
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 78779
+Average Packets Left(<-): 10.3715
+Sum Packets Right (->): 3555141
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 99585
+Average Packets Right(->): 29.2168
+
+File: ../caida/equinix-nyc.dirB.20181115-132600.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 124366
+Sum Packets Left (<-): 1254835
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 80274
+Average Packets Left(<-): 10.0898
+Sum Packets Right (->): 3685450
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 103239
+Average Packets Right(->): 29.6339
+
+File: ../caida/equinix-nyc.dirB.20181115-132700.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 122316
+Sum Packets Left (<-): 1203456
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 80642
+Average Packets Left(<-): 9.8389
+Sum Packets Right (->): 3642208
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 101977
+Average Packets Right(->): 29.7770
+
+File: ../caida/equinix-nyc.dirB.20181115-132800.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 120391
+Sum Packets Left (<-): 1194069
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 80385
+Average Packets Left(<-): 9.9182
+Sum Packets Right (->): 3702884
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 102617
+Average Packets Right(->): 30.7571
+
+File: ../caida/equinix-nyc.dirB.20181115-132900.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 125189
+Sum Packets Left (<-): 1225814
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 81046
+Average Packets Left(<-): 9.7917
+Sum Packets Right (->): 3844019
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 103612
+Average Packets Right(->): 30.7057
+
+File: ../caida/equinix-nyc.dirB.20181115-133000.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 126899
+Sum Packets Left (<-): 1434431
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 81038
+Average Packets Left(<-): 11.3037
+Sum Packets Right (->): 3824120
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 103639
+Average Packets Right(->): 30.1351
+
+File: ../caida/equinix-nyc.dirB.20181115-133100.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 124681
+Sum Packets Left (<-): 1331891
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 81028
+Average Packets Left(<-): 10.6823
+Sum Packets Right (->): 3796088
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 102601
+Average Packets Right(->): 30.4464
+
+File: ../caida/equinix-nyc.dirB.20181115-133200.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 122529
+Sum Packets Left (<-): 1214388
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 81218
+Average Packets Left(<-): 9.9110
+Sum Packets Right (->): 3768913
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 103250
+Average Packets Right(->): 30.7593
+
+File: ../caida/equinix-nyc.dirB.20181115-133300.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 123503
+Sum Packets Left (<-): 1330234
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 82170
+Average Packets Left(<-): 10.7708
+Sum Packets Right (->): 3807205
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 103858
+Average Packets Right(->): 30.8268
+
+File: ../caida/equinix-nyc.dirB.20181115-133400.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 122350
+Sum Packets Left (<-): 1182688
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 81058
+Average Packets Left(<-): 9.6664
+Sum Packets Right (->): 3771324
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 102804
+Average Packets Right(->): 30.8240
+
+File: ../caida/equinix-nyc.dirB.20181115-133500.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 119330
+Sum Packets Left (<-): 1235350
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 81591
+Average Packets Left(<-): 10.3523
+Sum Packets Right (->): 3805454
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 103383
+Average Packets Right(->): 31.8901
+
+File: ../caida/equinix-nyc.dirB.20181115-133600.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 120294
+Sum Packets Left (<-): 1240242
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 83560
+Average Packets Left(<-): 10.3100
+Sum Packets Right (->): 3786564
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 103947
+Average Packets Right(->): 31.4775
+
+File: ../caida/equinix-nyc.dirB.20181115-133700.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 122611
+Sum Packets Left (<-): 1127300
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 81122
+Average Packets Left(<-): 9.1941
+Sum Packets Right (->): 3823983
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 106371
+Average Packets Right(->): 31.1879
+
+File: ../caida/equinix-nyc.dirB.20181115-133800.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 122424
+Sum Packets Left (<-): 1185851
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 82460
+Average Packets Left(<-): 9.6864
+Sum Packets Right (->): 3843904
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 106804
+Average Packets Right(->): 31.3982
+
+File: ../caida/equinix-nyc.dirB.20181115-133900.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 123114
+Sum Packets Left (<-): 1168360
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 82900
+Average Packets Left(<-): 9.4900
+Sum Packets Right (->): 3785317
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 107564
+Average Packets Right(->): 30.7464
+
+File: ../caida/equinix-nyc.dirB.20181115-134000.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 123053
+Sum Packets Left (<-): 1115607
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 79965
+Average Packets Left(<-): 9.0660
+Sum Packets Right (->): 3668568
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 104140
+Average Packets Right(->): 29.8129
+
+File: ../caida/equinix-nyc.dirB.20181115-134100.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 127413
+Sum Packets Left (<-): 1135433
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 82518
+Average Packets Left(<-): 8.9114
+Sum Packets Right (->): 3846765
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 105353
+Average Packets Right(->): 30.1913
+
+File: ../caida/equinix-nyc.dirB.20181115-134200.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 126219
+Sum Packets Left (<-): 1174235
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 82748
+Average Packets Left(<-): 9.3031
+Sum Packets Right (->): 3982971
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 104224
+Average Packets Right(->): 31.5560
+
+File: ../caida/equinix-nyc.dirB.20181115-134300.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 125747
+Sum Packets Left (<-): 1157915
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 82212
+Average Packets Left(<-): 9.2082
+Sum Packets Right (->): 3965480
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 104189
+Average Packets Right(->): 31.5353
+
+File: ../caida/equinix-nyc.dirB.20181115-134400.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 127903
+Sum Packets Left (<-): 1173166
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 82202
+Average Packets Left(<-): 9.1723
+Sum Packets Right (->): 3924520
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 103769
+Average Packets Right(->): 30.6835
+
+File: ../caida/equinix-nyc.dirB.20181115-134500.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 129848
+Sum Packets Left (<-): 1143956
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 82709
+Average Packets Left(<-): 8.8099
+Sum Packets Right (->): 4038866
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 104629
+Average Packets Right(->): 31.1045
+
+File: ../caida/equinix-nyc.dirB.20181115-134600.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 123011
+Sum Packets Left (<-): 1221644
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 83289
+Average Packets Left(<-): 9.9311
+Sum Packets Right (->): 4081187
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 104230
+Average Packets Right(->): 33.1774
+
+File: ../caida/equinix-nyc.dirB.20181115-134700.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 121365
+Sum Packets Left (<-): 1170518
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 82601
+Average Packets Left(<-): 9.6446
+Sum Packets Right (->): 4227622
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 104751
+Average Packets Right(->): 34.8339
+
+File: ../caida/equinix-nyc.dirB.20181115-134800.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 123611
+Sum Packets Left (<-): 1218673
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 82431
+Average Packets Left(<-): 9.8589
+Sum Packets Right (->): 4155241
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 103764
+Average Packets Right(->): 33.6154
+
+File: ../caida/equinix-nyc.dirB.20181115-134900.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 125870
+Sum Packets Left (<-): 1142323
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 82568
+Average Packets Left(<-): 9.0754
+Sum Packets Right (->): 4186361
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 104641
+Average Packets Right(->): 33.2594
+
+File: ../caida/equinix-nyc.dirB.20181115-135000.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 125218
+Sum Packets Left (<-): 1205923
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 81814
+Average Packets Left(<-): 9.6305
+Sum Packets Right (->): 4200206
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 142299
+Average Packets Right(->): 33.5431
+
+File: ../caida/equinix-nyc.dirB.20181115-135100.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 129088
+Sum Packets Left (<-): 1177303
+Minimum Packets Left (<-): 0
+Maximum Packets Left (<-): 82746
+Average Packets Left(<-): 9.1201
+Sum Packets Right (->): 4047658
+Minimum Packets Right (->): 0
+Maximum Packets Right (->): 104452
+Average Packets Right(->): 31.3558
+

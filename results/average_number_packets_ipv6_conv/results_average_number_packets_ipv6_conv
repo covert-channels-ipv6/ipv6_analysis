@@ -1,0 +1,708 @@
+File: ../caida/equinix-nyc.dirA.20181115-125910.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 10666
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 84042
+Average Packet Number/Conversation: 31.92
+
+File: ../caida/equinix-nyc.dirA.20181115-130000.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 11795
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 106142
+Average Packet Number/Conversation: 33.58
+
+File: ../caida/equinix-nyc.dirA.20181115-130100.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 11864
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 103855
+Average Packet Number/Conversation: 34.46
+
+File: ../caida/equinix-nyc.dirA.20181115-130200.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 12008
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 104235
+Average Packet Number/Conversation: 35.43
+
+File: ../caida/equinix-nyc.dirA.20181115-130300.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 12003
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 103951
+Average Packet Number/Conversation: 35.71
+
+File: ../caida/equinix-nyc.dirA.20181115-130400.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 12157
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 103402
+Average Packet Number/Conversation: 33.48
+
+File: ../caida/equinix-nyc.dirA.20181115-130500.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 11885
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 104032
+Average Packet Number/Conversation: 35.07
+
+File: ../caida/equinix-nyc.dirA.20181115-130600.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 11941
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 104197
+Average Packet Number/Conversation: 34.96
+
+File: ../caida/equinix-nyc.dirA.20181115-130700.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 11846
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 103935
+Average Packet Number/Conversation: 36.68
+
+File: ../caida/equinix-nyc.dirA.20181115-130800.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 11951
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 104247
+Average Packet Number/Conversation: 34.25
+
+File: ../caida/equinix-nyc.dirA.20181115-130900.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 11904
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 103600
+Average Packet Number/Conversation: 33.32
+
+File: ../caida/equinix-nyc.dirA.20181115-131000.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 11930
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 104120
+Average Packet Number/Conversation: 34.47
+
+File: ../caida/equinix-nyc.dirA.20181115-131100.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 11847
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 102753
+Average Packet Number/Conversation: 34.39
+
+File: ../caida/equinix-nyc.dirA.20181115-131200.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 11978
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 103993
+Average Packet Number/Conversation: 33.31
+
+File: ../caida/equinix-nyc.dirA.20181115-131300.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 11927
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 103599
+Average Packet Number/Conversation: 34.90
+
+File: ../caida/equinix-nyc.dirA.20181115-131400.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 12088
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 102630
+Average Packet Number/Conversation: 33.08
+
+File: ../caida/equinix-nyc.dirA.20181115-131500.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 12040
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 104943
+Average Packet Number/Conversation: 34.79
+
+File: ../caida/equinix-nyc.dirA.20181115-131600.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 11849
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 102468
+Average Packet Number/Conversation: 35.16
+
+File: ../caida/equinix-nyc.dirA.20181115-131700.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 11965
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 102238
+Average Packet Number/Conversation: 35.50
+
+File: ../caida/equinix-nyc.dirA.20181115-131800.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 11948
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 103728
+Average Packet Number/Conversation: 34.39
+
+File: ../caida/equinix-nyc.dirA.20181115-131900.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 11897
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 102258
+Average Packet Number/Conversation: 34.89
+
+File: ../caida/equinix-nyc.dirA.20181115-132000.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 11943
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 103870
+Average Packet Number/Conversation: 34.68
+
+File: ../caida/equinix-nyc.dirA.20181115-132100.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 11830
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 103585
+Average Packet Number/Conversation: 35.19
+
+File: ../caida/equinix-nyc.dirA.20181115-132200.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 11971
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 103520
+Average Packet Number/Conversation: 35.04
+
+File: ../caida/equinix-nyc.dirA.20181115-132300.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 11856
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 103009
+Average Packet Number/Conversation: 33.87
+
+File: ../caida/equinix-nyc.dirA.20181115-132358.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 912
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 1976
+Average Packet Number/Conversation: 7.44
+
+File: ../caida/equinix-nyc.dirA.20181115-132400.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 12048
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 103656
+Average Packet Number/Conversation: 33.55
+
+File: ../caida/equinix-nyc.dirA.20181115-132500.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 11976
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 102049
+Average Packet Number/Conversation: 35.06
+
+File: ../caida/equinix-nyc.dirA.20181115-132600.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 12156
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 105009
+Average Packet Number/Conversation: 35.36
+
+File: ../caida/equinix-nyc.dirA.20181115-132700.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 11962
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 103589
+Average Packet Number/Conversation: 33.19
+
+File: ../caida/equinix-nyc.dirA.20181115-132800.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 12205
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 104339
+Average Packet Number/Conversation: 34.15
+
+File: ../caida/equinix-nyc.dirA.20181115-132900.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 12149
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 105847
+Average Packet Number/Conversation: 35.00
+
+File: ../caida/equinix-nyc.dirA.20181115-133000.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 12235
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 106089
+Average Packet Number/Conversation: 35.58
+
+File: ../caida/equinix-nyc.dirA.20181115-133100.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 12170
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 104631
+Average Packet Number/Conversation: 35.00
+
+File: ../caida/equinix-nyc.dirA.20181115-133200.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 12179
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 105478
+Average Packet Number/Conversation: 36.15
+
+File: ../caida/equinix-nyc.dirA.20181115-133300.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 12207
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 106760
+Average Packet Number/Conversation: 37.98
+
+File: ../caida/equinix-nyc.dirA.20181115-133400.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 11817
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 104349
+Average Packet Number/Conversation: 41.47
+
+File: ../caida/equinix-nyc.dirA.20181115-133500.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 11303
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 105076
+Average Packet Number/Conversation: 37.88
+
+File: ../caida/equinix-nyc.dirA.20181115-133600.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 11767
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 106025
+Average Packet Number/Conversation: 39.20
+
+File: ../caida/equinix-nyc.dirA.20181115-133700.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 12194
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 104129
+Average Packet Number/Conversation: 40.25
+
+File: ../caida/equinix-nyc.dirA.20181115-133800.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 12310
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 104937
+Average Packet Number/Conversation: 38.29
+
+File: ../caida/equinix-nyc.dirA.20181115-133900.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 12105
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 105575
+Average Packet Number/Conversation: 38.42
+
+File: ../caida/equinix-nyc.dirA.20181115-134000.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 12146
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 103632
+Average Packet Number/Conversation: 37.10
+
+File: ../caida/equinix-nyc.dirA.20181115-134100.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 12108
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 106669
+Average Packet Number/Conversation: 39.03
+
+File: ../caida/equinix-nyc.dirA.20181115-134200.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 12188
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 105883
+Average Packet Number/Conversation: 36.58
+
+File: ../caida/equinix-nyc.dirA.20181115-134300.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 12197
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 106204
+Average Packet Number/Conversation: 36.04
+
+File: ../caida/equinix-nyc.dirA.20181115-134400.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 12348
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 105804
+Average Packet Number/Conversation: 35.03
+
+File: ../caida/equinix-nyc.dirA.20181115-134500.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 12464
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 106185
+Average Packet Number/Conversation: 36.03
+
+File: ../caida/equinix-nyc.dirA.20181115-134600.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 12014
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 106224
+Average Packet Number/Conversation: 37.09
+
+File: ../caida/equinix-nyc.dirA.20181115-134700.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 11920
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 106374
+Average Packet Number/Conversation: 35.52
+
+File: ../caida/equinix-nyc.dirA.20181115-134800.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 12023
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 105877
+Average Packet Number/Conversation: 37.51
+
+File: ../caida/equinix-nyc.dirA.20181115-134900.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 12017
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 105878
+Average Packet Number/Conversation: 36.22
+
+File: ../caida/equinix-nyc.dirA.20181115-135000.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 12005
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 104425
+Average Packet Number/Conversation: 37.55
+
+File: ../caida/equinix-nyc.dirA.20181115-135100.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 12281
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 106734
+Average Packet Number/Conversation: 37.59
+
+File: ../caida/equinix-nyc.dirA.20181115-135200.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 11923
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 102934
+Average Packet Number/Conversation: 35.97
+
+File: ../caida/equinix-nyc.dirA.20181115-135300.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 11887
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 105307
+Average Packet Number/Conversation: 38.38
+
+File: ../caida/equinix-nyc.dirA.20181115-135400.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 11816
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 116499
+Average Packet Number/Conversation: 47.53
+
+File: ../caida/equinix-nyc.dirA.20181115-135500.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 11929
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 107044
+Average Packet Number/Conversation: 36.72
+
+File: ../caida/equinix-nyc.dirA.20181115-135600.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 12076
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 104308
+Average Packet Number/Conversation: 36.91
+
+File: ../caida/equinix-nyc.dirA.20181115-135700.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 11985
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 107062
+Average Packet Number/Conversation: 35.14
+
+File: ../caida/equinix-nyc.dirA.20181115-135800.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 11803
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 105998
+Average Packet Number/Conversation: 37.20
+
+File: ../caida/equinix-nyc.dirA.20181115-135900.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 12007
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 105616
+Average Packet Number/Conversation: 38.53
+
+File: ../caida/equinix-nyc.dirA.20181115-140000.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 12547
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 113828
+Average Packet Number/Conversation: 39.66
+
+File: ../caida/equinix-nyc.dirA.20181115-140100.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 6521
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 20119
+Average Packet Number/Conversation: 12.81
+
+File: ../caida/equinix-nyc.dirB.20181115-125910.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 107257
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 82086
+Average Packet Number/Conversation: 36.01
+
+File: ../caida/equinix-nyc.dirB.20181115-130000.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 119769
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 103723
+Average Packet Number/Conversation: 39.42
+
+File: ../caida/equinix-nyc.dirB.20181115-130100.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 121817
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 101163
+Average Packet Number/Conversation: 37.51
+
+File: ../caida/equinix-nyc.dirB.20181115-130200.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 126245
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 168788
+Average Packet Number/Conversation: 39.05
+
+File: ../caida/equinix-nyc.dirB.20181115-130300.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 125421
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 105731
+Average Packet Number/Conversation: 38.26
+
+File: ../caida/equinix-nyc.dirB.20181115-130400.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 122410
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 132174
+Average Packet Number/Conversation: 38.32
+
+File: ../caida/equinix-nyc.dirB.20181115-130500.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 119422
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 101833
+Average Packet Number/Conversation: 39.17
+
+File: ../caida/equinix-nyc.dirB.20181115-130600.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 116300
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 102262
+Average Packet Number/Conversation: 40.25
+
+File: ../caida/equinix-nyc.dirB.20181115-130700.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 117661
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 102045
+Average Packet Number/Conversation: 40.66
+
+File: ../caida/equinix-nyc.dirB.20181115-130800.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 121296
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 101962
+Average Packet Number/Conversation: 40.22
+
+File: ../caida/equinix-nyc.dirB.20181115-130900.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 124743
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 102025
+Average Packet Number/Conversation: 38.36
+
+File: ../caida/equinix-nyc.dirB.20181115-131000.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 124013
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 103532
+Average Packet Number/Conversation: 38.59
+
+File: ../caida/equinix-nyc.dirB.20181115-131100.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 118670
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 102151
+Average Packet Number/Conversation: 39.89
+
+File: ../caida/equinix-nyc.dirB.20181115-131200.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 118477
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 103164
+Average Packet Number/Conversation: 40.27
+
+File: ../caida/equinix-nyc.dirB.20181115-131300.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 122969
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 103970
+Average Packet Number/Conversation: 38.69
+
+File: ../caida/equinix-nyc.dirB.20181115-131400.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 122064
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 102319
+Average Packet Number/Conversation: 40.36
+
+File: ../caida/equinix-nyc.dirB.20181115-131500.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 123958
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 104687
+Average Packet Number/Conversation: 40.57
+
+File: ../caida/equinix-nyc.dirB.20181115-131600.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 125459
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 102500
+Average Packet Number/Conversation: 39.19
+
+File: ../caida/equinix-nyc.dirB.20181115-131700.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 124682
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 101673
+Average Packet Number/Conversation: 38.77
+
+File: ../caida/equinix-nyc.dirB.20181115-131800.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 120383
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 102874
+Average Packet Number/Conversation: 40.78
+
+File: ../caida/equinix-nyc.dirB.20181115-131900.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 118685
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 102225
+Average Packet Number/Conversation: 40.84
+
+File: ../caida/equinix-nyc.dirB.20181115-131947.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 50080
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 20962
+Average Packet Number/Conversation: 19.65
+
+File: ../caida/equinix-nyc.dirB.20181115-132000.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 120345
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 102894
+Average Packet Number/Conversation: 41.34
+
+File: ../caida/equinix-nyc.dirB.20181115-132100.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 123114
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 100886
+Average Packet Number/Conversation: 40.11
+
+File: ../caida/equinix-nyc.dirB.20181115-132200.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 125223
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 133086
+Average Packet Number/Conversation: 39.36
+
+File: ../caida/equinix-nyc.dirB.20181115-132300.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 125010
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 101196
+Average Packet Number/Conversation: 39.82
+
+File: ../caida/equinix-nyc.dirB.20181115-132400.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 123154
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 101329
+Average Packet Number/Conversation: 39.67
+
+File: ../caida/equinix-nyc.dirB.20181115-132500.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 121681
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 99585
+Average Packet Number/Conversation: 39.58
+
+File: ../caida/equinix-nyc.dirB.20181115-132600.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 124366
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 103239
+Average Packet Number/Conversation: 39.72
+
+File: ../caida/equinix-nyc.dirB.20181115-132700.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 122316
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 101977
+Average Packet Number/Conversation: 39.61
+
+File: ../caida/equinix-nyc.dirB.20181115-132800.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 120391
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 102617
+Average Packet Number/Conversation: 40.67
+
+File: ../caida/equinix-nyc.dirB.20181115-132900.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 125189
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 103612
+Average Packet Number/Conversation: 40.49
+
+File: ../caida/equinix-nyc.dirB.20181115-133000.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 126899
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 103639
+Average Packet Number/Conversation: 41.43
+
+File: ../caida/equinix-nyc.dirB.20181115-133100.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 124681
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 102601
+Average Packet Number/Conversation: 41.12
+
+File: ../caida/equinix-nyc.dirB.20181115-133200.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 122529
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 103250
+Average Packet Number/Conversation: 40.67
+
+File: ../caida/equinix-nyc.dirB.20181115-133300.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 123503
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 103858
+Average Packet Number/Conversation: 41.59
+
+File: ../caida/equinix-nyc.dirB.20181115-133400.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 122350
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 102804
+Average Packet Number/Conversation: 40.49
+
+File: ../caida/equinix-nyc.dirB.20181115-133500.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 119330
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 103383
+Average Packet Number/Conversation: 42.24
+
+File: ../caida/equinix-nyc.dirB.20181115-133600.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 120294
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 103947
+Average Packet Number/Conversation: 41.78
+
+File: ../caida/equinix-nyc.dirB.20181115-133700.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 122611
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 106371
+Average Packet Number/Conversation: 40.38
+
+File: ../caida/equinix-nyc.dirB.20181115-133800.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 122424
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 106804
+Average Packet Number/Conversation: 41.08
+
+File: ../caida/equinix-nyc.dirB.20181115-133900.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 123114
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 107564
+Average Packet Number/Conversation: 40.23
+
+File: ../caida/equinix-nyc.dirB.20181115-134000.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 123053
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 104140
+Average Packet Number/Conversation: 38.87
+
+File: ../caida/equinix-nyc.dirB.20181115-134100.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 127413
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 105353
+Average Packet Number/Conversation: 39.10
+
+File: ../caida/equinix-nyc.dirB.20181115-134200.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 126219
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 104224
+Average Packet Number/Conversation: 40.85
+
+File: ../caida/equinix-nyc.dirB.20181115-134300.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 125747
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 104189
+Average Packet Number/Conversation: 40.74
+
+File: ../caida/equinix-nyc.dirB.20181115-134400.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 127903
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 103769
+Average Packet Number/Conversation: 39.85
+
+File: ../caida/equinix-nyc.dirB.20181115-134500.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 129848
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 104629
+Average Packet Number/Conversation: 39.91
+
+File: ../caida/equinix-nyc.dirB.20181115-134600.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 123011
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 104230
+Average Packet Number/Conversation: 43.10
+
+File: ../caida/equinix-nyc.dirB.20181115-134700.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 121365
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 104751
+Average Packet Number/Conversation: 44.47
+
+File: ../caida/equinix-nyc.dirB.20181115-134800.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 123611
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 103764
+Average Packet Number/Conversation: 43.47
+
+File: ../caida/equinix-nyc.dirB.20181115-134900.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 125870
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 104641
+Average Packet Number/Conversation: 42.33
+
+File: ../caida/equinix-nyc.dirB.20181115-135000.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 125218
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 142299
+Average Packet Number/Conversation: 43.17
+
+File: ../caida/equinix-nyc.dirB.20181115-135100.UTC.anon.ipv6.pcap
+Number of IPv6 Conversations: 129088
+Minimum Packet Number/Conversation: 1
+Maximum Packet Number/Conversation: 104452
+Average Packet Number/Conversation: 40.47
+
